@@ -4,25 +4,13 @@ import sys
 import getopt
 
 
-def main(argv):
-    try:
-        opts, args = getopt.getopt(argv,"hs:o:")
-    except getopt.GetoptError:
-        print 'GitHubDataTest.py -s <searchString> -o <outputfile>'
-        sys.exit(2)
-    for opt, arg in opts:
-        if opt == '-h':
-           print 'GitHubDataTest.py -s <searchString> -o <outputfile>'
-           sys.exit()
-        elif opt in ("-s"):
-           searchString = arg
-        elif opt in ("-o"):
-           outputfile = arg
+def githubMessages(searchString, outputfile):
+    
     #searchString = raw_input("Search String:")
     writeFile = open(outputfile + ".tsv", 'w')
     me = Github("GhostHackery", "Test123")
     users = me.search_users(searchString)
-    users = me.search_users(searchString)
+    
     
     for user in users:
         if user.name is not None: #so long as the username exists, do the things
@@ -62,7 +50,7 @@ def main(argv):
         #we should only ever hit 1 user, so break 
     writeFile.close()
 
-if __name__ == "__main__":
-   main(sys.argv[1:])
+#if __name__ == "__main__":
+   #main(sys.argv[1:])
 
 

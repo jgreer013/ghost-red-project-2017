@@ -31,7 +31,7 @@ def applicant(resumeFileName,githubUserName):
     corpus.append(post[6])
   #print(docIDCorpus)
   #docIDCorpus.append('Hello')
-
+  foundWebsite = False
   resumeDict = extractResumeText(resumeFileName)
   #print(resumeDict["urls"])
   #print(resumeDict["email"])
@@ -39,6 +39,7 @@ def applicant(resumeFileName,githubUserName):
     webPageText = getWebpageText(resumeDict["urls"][0])
     corpus.append(' '.join(webPageText))
     docIDCorpus.append('W'+resumeFileName)
+    foundWebsite = True
   else:
     corpus.append('')
     docIDCorpus.append('W'+resumeFileName)
@@ -64,37 +65,47 @@ def applicant(resumeFileName,githubUserName):
   docIDCorpus.append('R'+resumeFileName)
   vectorizer = TfidfVectorizer(min_df=1)
   tfidf = vectorizer.fit_transform(corpus)
-  #print(tfidf)
+  returnResultSet1 = []
+  returnResultSet2 = []
   csCoeff =cosine_similarity(tfidf) 
-  print(csCoeff)
-  #tfidfFile = open('tfidf.mtx','wb+')
-  #tfidfFile.write(tfidf)
-  #print('Printing 1')
-  #io.mmwrite(tfidfFile,tfidf)
-  #csCoeffFile = open('cosineSimilarity.mtx','wb+')
-  #csCoeffFile.write(csCoeff)
-  #print('Printing2')
-  #io.mmwrite(csCoeffFile, csCoeff)
-  #ind0 = docIDCorpus.index('Hello')
-  #print(ind0)
-  #ind1 = docIDCorpus.index('Chttp://www.dice.com/job/result/10105424/5902642-156?src=19')
-  #ind2 =  docIDCorpus.index('Chttp://www.dice.com/job/result/10105424/5900266-600?src=19')
-  #print(csCoeff[ind1,ind2])
-  #print(corpus[ind1])
-  #print('two')
-  #print(corpus[ind2])
-  #print('Done')
-  #print(csCoeff[-2:][:])
-  print(getSortedMax((csCoeff[len(csCoeff)-1][0:len(csCoeff[0])-1]).tolist(),docIDCorpus[0:len(docIDCorpus)-1]))
-  print(getSortedMax((csCoeff[len(csCoeff)-2][0:len(csCoeff[0])-2]).tolist(),docIDCorpus[0:len(docIDCorpus)-2]))
+  #print(csCoeff)
+  print(len(diceData))
+  print(len(diceData[0]))
+  if (foundWebsite == True):
+    resultSet1 = getSortedMax((csCoeff[len(csCoeff)-1][0:len(csCoeff[0])-1]).tolist(),docIDCorpus[0:len(docIDCorpus)-1])
+    resultSet2 = getSortedMax((csCoeff[len(csCoeff)-2][0:len(csCoeff[0])-2]).tolist(),docIDCorpus[0:len(docIDCorpus)-2])
+    
+    for key in resultSet1[0]:
+      for x in range(0,len(diceData)):
+        if (diceData[x][4] == key[1:]):
+          tempInd=x
+          returnResultSet1.append([diceData[tempInd][1],diceData[tempInd][4],diceData[tempInd][3]])
+          break
+    for key in resultSet2[0]:
+      for x in range(0,len(diceData)):
+        if (diceData[x][4] == key[1:]):
+          tempInd=x
+          returnResultSet2.append([diceData[tempInd][2],diceData[tempInd][7]])
+          break
+  else:
+    resultSet = getSortedMax((csCoeff[len(csCoeff)-1][0:len(csCoeff[0])-1]).tolist(),docIDCorpus[0:len(docIDCorpus)-1])
+    for key in resultSet1[0]:
+      for x in range(0,len(diceData)):
+        if (diceData[x][4] == key[1:]):
+          tempInd=x
+          returnResultSet1.append([diceData[tempInd][1],diceData[tempInd][4],diceData[tempInd][3]])
+          breaks
+  print(returnResultSet1)
+  print(returnResultSet2)
+  return [returnResultSet1,returnResultSet2]
 def company(resumeFileNames, CompanyDesc, JobDesc):
   print('Hi')
 
 def getSortedMax(csScoreRow,keys):
   x1 = 0
   mydict = {}
-  print(len(keys))
-  print(len(csScoreRow))
+  #print(len(keys))
+  #print(len(csScoreRow))
   for key in keys:
   	mydict[key] = csScoreRow[x1]
 	x1 += 1
