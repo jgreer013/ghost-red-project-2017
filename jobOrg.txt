@@ -1,0 +1,3057 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <!-- seo tags-->
+  <title>
+   ILM Systems Administrator - The Judge Group - Denver, CO - 02-03-2017 | Dice.com
+  </title>
+  <link href="https://www.dice.com/jobs/detail/ILM-Systems-Administrator-The-Judge-Group-Denver-CO-80002/cxjudgpa/518315" rel="canonical"/>
+  <meta content="Dice.com JobSearch" name="generator"/>
+  <meta content="TechPro_DJV_Basic" name="ompagename"/>
+  <meta content="Tech Pro" name="channel"/>
+  <meta content="ILM Systems Administrator jobs at The Judge Group in Denver, CO" name="description"/>
+  <meta content="ILM Systems Administrator jobs, The Judge Group jobs, Denver jobs, CO jobs, 80002 jobs, tech jobs, it jobs, recruitment,  careers,  employment,  job listings,  job search,  search engine, work in" name="keywords"/>
+  <meta content="518315" name="jobId"/>
+  <meta content="cxjudgpa" name="groupId"/>
+  <meta content="app-id=794201100" name="apple-itunes-app"/>
+  <meta content="app-id= 794201100" name="Tech Job Search by Dice"/>
+  <meta content="Dice, Inc." name="author"/>
+  <meta content="app-id=com.dice.app.jobs" name="google-play-app"/>
+  <!-- fb tags-->
+  <meta content="ILM Systems Administrator - The Judge Group - Denver, CO - 02-03-2017 | Dice.com" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <meta content="http://assets.dice.com/assets/images/DiceOpenLogo512.png" property="og:image"/>
+  <meta content="https://www.dice.com/jobs/detail/cxjudgpa/518315" property="og:url"/>
+  <meta content="Dice.com" property="og:site_name"/>
+  <meta content="02-03-2017 - Please send all applicable resume in .doc/.docx format to: kvinson@judge.com. *** W2 CANDIDATES ONLY - PLEASE DO NOT APPLY IF 3RD PARTY *..." property="og:description"/>
+  <meta content="https://www.dice.com/jobs/detail/e01ec736587ca80ac780e763b306fc4d" id="jobsUrl" name="jobsUrl"/>
+  <!-- twitter tags-->
+  <meta content="product" name="twitter:card"/>
+  <meta content="@DiceTechJobs" name="twitter:site"/>
+  <meta content="@DiceTechJobs" name="twitter:creator"/>
+  <meta content="dice.com" name="twitter:domain"/>
+  <meta content="ILM Systems Administrator" name="twitter:title"/>
+  <meta content="http://www.dice.com/content/assets/twitter-assets/tCard_job_icon.png" name="twitter:image"/>
+  <meta content="The Judge Group" name="twitter:data1"/>
+  <meta content="Denver, CO" name="twitter:label1"/>
+  <meta content="Salary" name="twitter:data2"/>
+  <meta content="Negotiable" name="twitter:label2"/>
+  <meta content="02-03-2017 - Please send all applicable resume in .doc/.docx format to: kvinson@judge.com. *** W2 CANDIDATES ONLY - PLEASE DO NOT APPLY IF 3RD PARTY *..." name="twitter:description"/>
+  <meta content="https://www.dice.com/jobs/detail/cxjudgpa/518315" id="twitterURL" name="twitter:url"/>
+  <meta content="The Judge Group is hiring in Denver, CO #SQL #Protocols #Dice141" id="tweetText" name="twitterTweet"/>
+  <!-- page link tags-->
+  <link href="//fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet"/>
+  <link href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-57x57.png" rel="apple-touch-icon" sizes="57x57"/>
+  <link href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-60x60.png" rel="apple-touch-icon" sizes="60x60"/>
+  <link href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72"/>
+  <link href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-76x76.png" rel="apple-touch-icon" sizes="76x76"/>
+  <link href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114"/>
+  <link href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-120x120.png" rel="apple-touch-icon" sizes="120x120"/>
+  <link href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144"/>
+  <link href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-152x152.png" rel="apple-touch-icon" sizes="152x152"/>
+  <link href="//assets.dice.com/techpro/img/favicons/apple-touch-icon-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+  <link href="//assets.dice.com/techpro/img/favicons/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
+  <link href="//assets.dice.com/techpro/img/favicons/favicon-194x194.png" rel="icon" sizes="194x194" type="image/png"/>
+  <link href="//assets.dice.com/techpro/img/favicons/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png"/>
+  <link href="//assets.dice.com/techpro/img/favicons/android-chrome-192x192.png" rel="icon" sizes="192x192" type="image/png"/>
+  <link href="//assets.dice.com/techpro/img/favicons/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
+  <link href="//assets.dice.com/techpro/img/favicons/manifest.json" rel="manifest"/>
+  <link href="//assets.dice.com/techpro/img/favicons/favicon.ico" rel="shortcut icon"/>
+  <meta content="Dice" name="apple-mobile-web-app-title"/>
+  <meta content="Dice" name="application-name"/>
+  <meta content="#cc0000" name="msapplication-TileColor"/>
+  <meta content="//assets.dice.com/techpro/img/favicons/mstile-144x144.png" name="msapplication-TileImage"/>
+  <meta content="//assets.dice.com/techpro/img/favicons/browserconfig.xml" name="msapplication-config"/>
+  <meta content="#cc0000" name="theme-color"/>
+  <script type="text/javascript">
+   var signFromGoogleOutVal = false;
+  </script>
+  <link href="//assets.dice.com/techpro/css/detail-job-view.min.css" rel="stylesheet"/>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+  <script src="//assets.adobedtm.com/8c06f57f0590fbbe830e2dd0366687c0599684e7/satelliteLib-73044e29039c50f90968e5135f6f50a83641e7f0.js">
+  </script>
+  <!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
+  <script type="text/javascript">
+   var monetateT = new Date().getTime();
+    (function() {
+        var p = document.location.protocol;
+        if (p == "http:" || p == "https:") {
+            if (true === true) {//For PROD & QA
+                var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-49445784/p/dice.com/" + Math.floor((monetateT + 1615620) / 3600000) + "/g";
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+            } else {//Only for PILOT
+                var m = document.createElement("script"); m.type = "text/javascript"; m.src = (p == "https:" ? "https://s" : "http://") + "e.monetate.net/js/2/a-49445784/d/dicepilot.com/entry.js";
+                var e = document.createElement("div"); e.appendChild(m); document.write(e.innerHTML);
+            }
+        }
+    })();
+  </script>
+  <!-- End Monetate tag. -->
+  <meta content="" name="utm_medium"/>
+  <style type="text/css">
+   .dice-detect {display:none;}
+  </style>
+  <script type="text/javascript">
+   window.onload = function () {
+		var screen_width = $(window).width();
+		if (screen_width <= 992) {
+			$('#saveBtn, #saveBtn2, #emailBtn, #shareBtn, .DJVjob-alert').removeAttr('data-toggle');
+			$('#saveBtn, #saveBtn2, #emailBtn, #shareBtn, .DJVjob-alert').removeAttr('data-original-title');
+		}
+	};
+  </script>
+ </head>
+ <body>
+  <!-- job header code start-->
+  <div class="notifications top-right">
+  </div>
+  <!-- HEADER CODE -->
+  <div class="dice-navbar" role="navigation">
+   <div class="container">
+    <div class="navbar-header">
+     <button class="navbar-toggle nbt" data-target="#menu-toggle" type="button">
+      <span class="sr-only">
+       Toggle navigation
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+      <span class="icon-bar">
+      </span>
+     </button>
+     <button class="navbar-toggle nbt navbar-magnifier search" data-target="#search-toggle" type="button">
+      <span class="icon icon-magnifier searchspan">
+      </span>
+     </button>
+     <div class="dice-navbar-brand">
+      <a class="logo" href="http://www.dice.com">
+      </a>
+     </div>
+    </div>
+    <div class="collapse navbar-collapse" id="menu-toggle" style="max-height: 100% !important;">
+     <div>
+      <!-- MOBILE -->
+      <ul class="nav navbar-nav ">
+       <li class="dropdown">
+        <a class="dropdown-toggle smartMenu btn-link" data-target="#smart-toggle1" id="smart-toggle-Career">
+         Tech Careers
+         <i class="icon-arrow-68">
+         </i>
+         <i class="icon-arrow-67">
+         </i>
+        </a>
+        <ul class="dropdown-menu dropdown-smartMenu" id="smart-toggle1">
+         <!-- <span class="open"></span> -->
+         <li>
+          <a href="/jobs">
+           Job Search
+          </a>
+         </li>
+         <li>
+          <a href="/skills">
+           Skills Center
+          </a>
+         </li>
+         <li>
+          <a href="https://www.dice.com/mobile">
+           Dice Careers Mobile
+          </a>
+         </li>
+        </ul>
+       </li>
+       <li>
+        <a href="http://insights.dice.com/career-toolkit/">
+         Career Center
+        </a>
+       </li>
+       <li>
+        <a href="http://insights.dice.com/">
+         Insights
+        </a>
+       </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right visible-xs visible-sm">
+       <li>
+        <a href="https://www.dice.com/products/webstore?icid=OS_HP_UP_EMP_AV_NAV_WS_">
+         Post Jobs
+        </a>
+       </li>
+       <li>
+        <a href="http://www.dice.com/products">
+         Talent Solutions
+        </a>
+       </li>
+       <li>
+        <a class="btn-link" href="/dashboard/login">
+         Login/Register
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div>
+      <!-- DESKTOP -->
+      <ul class="nav navbar-nav navbar-right hidden-xs hidden-sm">
+       <li>
+        <a href="https://www.dice.com/products/webstore?icid=OS_HP_UP_EMP_AV_NAV_WS_">
+         Post Jobs
+        </a>
+       </li>
+       <li>
+        <a href="http://www.dice.com/products">
+         Talent Solutions
+        </a>
+       </li>
+       <li>
+        <a class="btn-link" href="/dashboard/login">
+         Login/Register
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <!--/.nav-collapse -->
+   </div>
+   <!-- END CONTAINER -->
+  </div>
+  <!-- END DICE-NAVBAR -->
+  <!-- END HEADER CODE -->
+  <div id="fb-root">
+  </div>
+  <div id="header-wrap-container">
+   <div class="brand-max" id="header-wrap">
+    <div class="bredcrumDJV">
+     <div class="container">
+      <div class="row">
+       <div class="col-md-12">
+        <h5 class="breadcrumb-links">
+         <a class="breadcrumb-link" href="https://www.dice.com">
+          Home
+         </a>
+         /
+         <a class="dice-btn-link" href="#" id="searchBackUrl">
+          Search
+         </a>
+         /
+         <span class="breadcrumb-link" style="color: #999;">
+          Job Details
+         </span>
+        </h5>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="container">
+     <div class="row">
+      <div class="col-md-5 col-lg-6">
+       <input id="did" name="did" type="hidden" value="e01ec736587ca80ac780e763b306fc4d"/>
+       <input id="hashUrl" name="hashUrl" type="hidden" value="/utils/hashtag?max=2&amp;jobId=e01ec736587ca80ac780e763b306fc4d"/>
+       <h1 class="jobTitle" id="jt">
+        ILM Systems Administrator
+       </h1>
+       <ul class="list-inline details">
+        <li class="employer">
+         <a class="dice-btn-link" href="https://www.dice.com/company/cxjudgpa">
+          The Judge Group
+         </a>
+         ,
+        </li>
+        <li class="location">
+         Denver, CO
+        </li>
+        <li class="posted hidden-xs">
+         Posted 10 hours ago
+        </li>
+       </ul>
+      </div>
+      <div class="col-md-7 col-lg-6 col-xs-12 applySec">
+       <div class="pull-right hidden-xs">
+        <button class="btn btn-primary btn-lg dice-btn apply disableButton" disabled="disabled" id="applybtn" onclick="checkModalHTML();" type="button">
+         Apply Now
+        </button>
+        <div class="hidden-xs btn-group btn-group-lg">
+         <input id="wwwDomain" type="hidden" value="www.dice.com"/>
+         <input id="appUrl" type="hidden" value="https://www.judge.com/Jobs/Details/518315?utm_source=rss&amp;utm_source=dice&amp;utm_medium=cpc"/>
+         <button class="btn btn-default dice-btn-secondary DJVjob-alert" style="font-weight: 300; border-radius: 3px 0 0 3px;" type="button">
+          Create Alert
+         </button>
+         <button class="btn btn-default dice-btn-secondary" data-placement="bottom" data-toggle="tooltip" data-trigger="hover" id="saveBtn" isclicksavedjob="false" issavedjob="false" onclick="saveJob(this)" title="Save" type="button">
+          <input id="save" type="hidden" value="false"/>
+          <span class="icon-star-1">
+          </span>
+         </button>
+         <div class="btn-group">
+          <button class="btn btn-default dropdown-toggle dice-btn-secondary shareGrp actionButtons" data-toggle="dropdown" id="dropdownBtn" style="border-radius: 0;" title="Share" type="button">
+           <i aria-hidden="true" class="fa fa-share fa-md">
+           </i>
+           <span class="sr-only">
+            Toggle
+					Dropdown
+           </span>
+          </button>
+          <ul class="dropdown-menu pull-right" role="menu" style="top:42px; width: 100%;">
+           <div class="dropdown-menu-arrow">
+           </div>
+           <div class="dropdown-menu-arrow-overrite">
+           </div>
+           <li>
+            <a href="#" id="emailBtn" style="color:#069;">
+             <i aria-hidden="true" class="fa fa-envelope-o fa-2x" style="color:#069;">
+             </i>
+             Email
+            </a>
+           </li>
+           <li class="facebookShare" role="presentation">
+            <a class="facebookShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-facebook-square fa-2x" style="color:#069;">
+             </i>
+             <div class="fb-like" data-send="false" data-show-faces="false" data-width="50" layout="button_count">
+             </div>
+            </a>
+           </li>
+           <li class="gplusShare" role="presentation">
+            <a class="gplusShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-google-plus-square fa-2x" style="color:#069;">
+             </i>
+             <div class="g-plusone" data-annotation="none" data-size="medium" data-width="120">
+             </div>
+            </a>
+           </li>
+           <li class="linkedinShare" role="presentation">
+            <a class="linkedinShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-linkedin-square fa-2x" style="color:#069;">
+             </i>
+             <script src="//platform.linkedin.com/in.js" type="text/javascript">
+             </script>
+             <script data-counter="none" data-url="https://www.dice.com/jobs/detail/e01ec736587ca80ac780e763b306fc4d" type="IN/Share">
+             </script>
+            </a>
+           </li>
+           <li role="presentation">
+            <a class="twitterShare" name="twitterShare" role="menuitem">
+             <i aria-hidden="true" class="fa fa-twitter-square fa-2x" style="color:#069;">
+             </i>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div class="btn-group">
+          <button class="btn btn-default dropdown-toggle dice-btn-secondary actionButtons moreDropdown" data-toggle="dropdown" style="border-radius: 0 3px 3px 0;" type="button">
+           <i class="fa fa-ellipsis-h fa-lg">
+           </i>
+          </button>
+          <ul class="dropdown-menu pull-right" role="menu" style="top:42px; width: 100%;">
+           <li id="rated" style="display: none;">
+            <a>
+             <span>
+              ☆☆☆
+             </span>
+             Rated
+            </a>
+           </li>
+           <li id="rate" style="display: none;">
+            <a class="dice-btn-link rateLink" href="#" onclick="openFeedBackModal('rate');return false;">
+             <span>
+              ☆☆☆
+             </span>
+             Rate
+            </a>
+           </li>
+           <!-- 				<li>
+					<a href="#"><i class="fa fa-times-circle-o fa-lg" aria-hidden="true"></i> Not Interested in this job</a>
+				</li>
+				<li>
+					<a href="#"><i class="fa fa-times-circle-o fa-lg" aria-hidden="true"></i> Not Interested in this company</a>
+				</li> -->
+          </ul>
+         </div>
+        </div>
+        <div class="visible-xs btn-group btn-group-lg btn-block">
+         <input id="wwwDomain" type="hidden" value="www.dice.com"/>
+         <input id="appUrl" type="hidden" value="https://www.judge.com/Jobs/Details/518315?utm_source=rss&amp;utm_source=dice&amp;utm_medium=cpc"/>
+         <button class="btn btn-default dice-btn-secondary DJVjob-alert col-xs-6" style="font-weight: 300; border-radius: 3px 0 0 3px;" type="button">
+          Create Alert
+         </button>
+         <button class="col-xs-2 btn btn-default dice-btn-secondary" data-placement="bottom" data-toggle="tooltip" data-trigger="hover" id="saveBtn" isclicksavedjob="false" issavedjob="false" onclick="saveJob(this)" title="Save" type="button">
+          <input id="save" type="hidden" value="false"/>
+          <span class="icon-star-1">
+          </span>
+         </button>
+         <button class="btn btn-default dice-btn-secondary hidden-xs hidden-sm" data-placement="bottom" data-toggle="tooltip" id="emailBtn" title="Email" type="button">
+          <span class="icon-mail-1">
+          </span>
+         </button>
+         <div>
+          <button class="col-xs-2 btn btn-default dropdown-toggle dice-btn-secondary shareGrp mobileActionButtons" data-toggle="dropdown" id="dropdownBtn" style="border-radius: 0;" title="Share" type="button">
+           <i aria-hidden="true" class="fa fa-share fa-md">
+           </i>
+           <span class="sr-only">
+            Toggle
+					Dropdown
+           </span>
+          </button>
+          <ul class="dropdown-menu pull-right" role="menu" style="top:42px; width: 100%;">
+           <div class="dropdown-menu-arrow">
+           </div>
+           <div class="dropdown-menu-arrow-overrite">
+           </div>
+           <li>
+            <a href="#" id="emailBtn1" style="color:#069;">
+             <i aria-hidden="true" class="fa fa-envelope-o fa-2x" style="color:#069;">
+             </i>
+             Email
+            </a>
+           </li>
+           <li class="facebookShare" role="presentation">
+            <a class="facebookShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-facebook-square fa-2x" style="color:#069;">
+             </i>
+             <div class="fb-like" data-send="false" data-show-faces="false" data-width="50" layout="button_count">
+             </div>
+            </a>
+           </li>
+           <li class="gplusShare" role="presentation">
+            <a class="gplusShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-google-plus-square fa-2x" style="color:#069;">
+             </i>
+             <div class="g-plusone" data-annotation="none" data-size="medium" data-width="120">
+             </div>
+            </a>
+           </li>
+           <li class="linkedinShare" role="presentation">
+            <a class="linkedinShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-linkedin-square fa-2x" style="color:#069;">
+             </i>
+             <script src="//platform.linkedin.com/in.js" type="text/javascript">
+             </script>
+             <script data-counter="none" data-url="https://www.dice.com/jobs/detail/e01ec736587ca80ac780e763b306fc4d" type="IN/Share">
+             </script>
+            </a>
+           </li>
+           <li role="presentation">
+            <a class="twitterShare" name="twitterShare" role="menuitem">
+             <i aria-hidden="true" class="fa fa-twitter-square fa-2x" style="color:#069;">
+             </i>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <!-- 		<button id="dropdownBtn" class="col-xs-2 btn btn-default dice-btn-secondary" type="button">
+			<i class="fa fa-ellipsis-h fa-lg"></i>
+		</button> -->
+         <div>
+          <button class="col-xs-2 btn btn-default dropdown-toggle dice-btn-secondary mobileActionButtons moreDropdown" data-toggle="dropdown" style="border-radius: 0 3px 3px 0;" type="button">
+           <i class="fa fa-ellipsis-h fa-lg">
+           </i>
+          </button>
+          <ul class="dropdown-menu pull-right" role="menu" style="top:42px; width: 100%;">
+           <li class="icon icon-flag-5" id="reportedMobile" style="display: none; padding: 3px 20px; color:#069;">
+            Reported
+           </li>
+           <li id="reportMobile" style="display: none;">
+            <a class="dice-btn-link icon icon-flag-5 reportLink" href="#" onclick="openFeedBackModal('report');return false;">
+             Report a poor listing
+            </a>
+           </li>
+           <li id="ratedMobile" style="display: none;">
+            <a>
+             <span>
+              ☆☆☆
+             </span>
+             Rated
+            </a>
+           </li>
+           <li id="rateMobile" style="display: none;">
+            <a class="dice-btn-link rateLink" href="#" onclick="openFeedBackModal('rate');return false;">
+             <span>
+              ☆☆☆
+             </span>
+             Rate
+            </a>
+           </li>
+           <!-- 				<li>
+					<a href="#"><i class="fa fa-times-circle-o fa-lg" aria-hidden="true"></i> Not Interested in this job</a>
+				</li>
+				<li>
+					<a href="#"><i class="fa fa-times-circle-o fa-lg" aria-hidden="true"></i> Not Interested in this company</a>
+				</li> -->
+          </ul>
+         </div>
+        </div>
+        <input id="partnerSurveyURL" type="hidden" value="https://partner.techpapers.com/interstitial/interstitial.aspx?promo=111186"/>
+       </div>
+       <div class="visible-xs">
+        <button class="btn btn-primary btn-lg dice-btn apply disableButton" disabled="disabled" id="applybtn" onclick="checkModalHTML();" type="button">
+         Apply Now
+        </button>
+        <div class="hidden-xs btn-group btn-group-lg">
+         <input id="wwwDomain" type="hidden" value="www.dice.com"/>
+         <input id="appUrl" type="hidden" value="https://www.judge.com/Jobs/Details/518315?utm_source=rss&amp;utm_source=dice&amp;utm_medium=cpc"/>
+         <button class="btn btn-default dice-btn-secondary DJVjob-alert" style="font-weight: 300; border-radius: 3px 0 0 3px;" type="button">
+          Create Alert
+         </button>
+         <button class="btn btn-default dice-btn-secondary" data-placement="bottom" data-toggle="tooltip" data-trigger="hover" id="saveBtn" isclicksavedjob="false" issavedjob="false" onclick="saveJob(this)" title="Save" type="button">
+          <input id="save" type="hidden" value="false"/>
+          <span class="icon-star-1">
+          </span>
+         </button>
+         <div class="btn-group">
+          <button class="btn btn-default dropdown-toggle dice-btn-secondary shareGrp actionButtons" data-toggle="dropdown" id="dropdownBtn" style="border-radius: 0;" title="Share" type="button">
+           <i aria-hidden="true" class="fa fa-share fa-md">
+           </i>
+           <span class="sr-only">
+            Toggle
+					Dropdown
+           </span>
+          </button>
+          <ul class="dropdown-menu pull-right" role="menu" style="top:42px; width: 100%;">
+           <div class="dropdown-menu-arrow">
+           </div>
+           <div class="dropdown-menu-arrow-overrite">
+           </div>
+           <li>
+            <a href="#" id="emailBtn" style="color:#069;">
+             <i aria-hidden="true" class="fa fa-envelope-o fa-2x" style="color:#069;">
+             </i>
+             Email
+            </a>
+           </li>
+           <li class="facebookShare" role="presentation">
+            <a class="facebookShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-facebook-square fa-2x" style="color:#069;">
+             </i>
+             <div class="fb-like" data-send="false" data-show-faces="false" data-width="50" layout="button_count">
+             </div>
+            </a>
+           </li>
+           <li class="gplusShare" role="presentation">
+            <a class="gplusShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-google-plus-square fa-2x" style="color:#069;">
+             </i>
+             <div class="g-plusone" data-annotation="none" data-size="medium" data-width="120">
+             </div>
+            </a>
+           </li>
+           <li class="linkedinShare" role="presentation">
+            <a class="linkedinShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-linkedin-square fa-2x" style="color:#069;">
+             </i>
+             <script src="//platform.linkedin.com/in.js" type="text/javascript">
+             </script>
+             <script data-counter="none" data-url="https://www.dice.com/jobs/detail/e01ec736587ca80ac780e763b306fc4d" type="IN/Share">
+             </script>
+            </a>
+           </li>
+           <li role="presentation">
+            <a class="twitterShare" name="twitterShare" role="menuitem">
+             <i aria-hidden="true" class="fa fa-twitter-square fa-2x" style="color:#069;">
+             </i>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div class="btn-group">
+          <button class="btn btn-default dropdown-toggle dice-btn-secondary actionButtons moreDropdown" data-toggle="dropdown" style="border-radius: 0 3px 3px 0;" type="button">
+           <i class="fa fa-ellipsis-h fa-lg">
+           </i>
+          </button>
+          <ul class="dropdown-menu pull-right" role="menu" style="top:42px; width: 100%;">
+           <li id="rated" style="display: none;">
+            <a>
+             <span>
+              ☆☆☆
+             </span>
+             Rated
+            </a>
+           </li>
+           <li id="rate" style="display: none;">
+            <a class="dice-btn-link rateLink" href="#" onclick="openFeedBackModal('rate');return false;">
+             <span>
+              ☆☆☆
+             </span>
+             Rate
+            </a>
+           </li>
+           <!-- 				<li>
+					<a href="#"><i class="fa fa-times-circle-o fa-lg" aria-hidden="true"></i> Not Interested in this job</a>
+				</li>
+				<li>
+					<a href="#"><i class="fa fa-times-circle-o fa-lg" aria-hidden="true"></i> Not Interested in this company</a>
+				</li> -->
+          </ul>
+         </div>
+        </div>
+        <div class="visible-xs btn-group btn-group-lg btn-block">
+         <input id="wwwDomain" type="hidden" value="www.dice.com"/>
+         <input id="appUrl" type="hidden" value="https://www.judge.com/Jobs/Details/518315?utm_source=rss&amp;utm_source=dice&amp;utm_medium=cpc"/>
+         <button class="btn btn-default dice-btn-secondary DJVjob-alert col-xs-6" style="font-weight: 300; border-radius: 3px 0 0 3px;" type="button">
+          Create Alert
+         </button>
+         <button class="col-xs-2 btn btn-default dice-btn-secondary" data-placement="bottom" data-toggle="tooltip" data-trigger="hover" id="saveBtn" isclicksavedjob="false" issavedjob="false" onclick="saveJob(this)" title="Save" type="button">
+          <input id="save" type="hidden" value="false"/>
+          <span class="icon-star-1">
+          </span>
+         </button>
+         <button class="btn btn-default dice-btn-secondary hidden-xs hidden-sm" data-placement="bottom" data-toggle="tooltip" id="emailBtn" title="Email" type="button">
+          <span class="icon-mail-1">
+          </span>
+         </button>
+         <div>
+          <button class="col-xs-2 btn btn-default dropdown-toggle dice-btn-secondary shareGrp mobileActionButtons" data-toggle="dropdown" id="dropdownBtn" style="border-radius: 0;" title="Share" type="button">
+           <i aria-hidden="true" class="fa fa-share fa-md">
+           </i>
+           <span class="sr-only">
+            Toggle
+					Dropdown
+           </span>
+          </button>
+          <ul class="dropdown-menu pull-right" role="menu" style="top:42px; width: 100%;">
+           <div class="dropdown-menu-arrow">
+           </div>
+           <div class="dropdown-menu-arrow-overrite">
+           </div>
+           <li>
+            <a href="#" id="emailBtn1" style="color:#069;">
+             <i aria-hidden="true" class="fa fa-envelope-o fa-2x" style="color:#069;">
+             </i>
+             Email
+            </a>
+           </li>
+           <li class="facebookShare" role="presentation">
+            <a class="facebookShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-facebook-square fa-2x" style="color:#069;">
+             </i>
+             <div class="fb-like" data-send="false" data-show-faces="false" data-width="50" layout="button_count">
+             </div>
+            </a>
+           </li>
+           <li class="gplusShare" role="presentation">
+            <a class="gplusShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-google-plus-square fa-2x" style="color:#069;">
+             </i>
+             <div class="g-plusone" data-annotation="none" data-size="medium" data-width="120">
+             </div>
+            </a>
+           </li>
+           <li class="linkedinShare" role="presentation">
+            <a class="linkedinShareLink" role="menuitem">
+             <i aria-hidden="true" class="fa fa-linkedin-square fa-2x" style="color:#069;">
+             </i>
+             <script src="//platform.linkedin.com/in.js" type="text/javascript">
+             </script>
+             <script data-counter="none" data-url="https://www.dice.com/jobs/detail/e01ec736587ca80ac780e763b306fc4d" type="IN/Share">
+             </script>
+            </a>
+           </li>
+           <li role="presentation">
+            <a class="twitterShare" name="twitterShare" role="menuitem">
+             <i aria-hidden="true" class="fa fa-twitter-square fa-2x" style="color:#069;">
+             </i>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <!-- 		<button id="dropdownBtn" class="col-xs-2 btn btn-default dice-btn-secondary" type="button">
+			<i class="fa fa-ellipsis-h fa-lg"></i>
+		</button> -->
+         <div>
+          <button class="col-xs-2 btn btn-default dropdown-toggle dice-btn-secondary mobileActionButtons moreDropdown" data-toggle="dropdown" style="border-radius: 0 3px 3px 0;" type="button">
+           <i class="fa fa-ellipsis-h fa-lg">
+           </i>
+          </button>
+          <ul class="dropdown-menu pull-right" role="menu" style="top:42px; width: 100%;">
+           <li class="icon icon-flag-5" id="reportedMobile" style="display: none; padding: 3px 20px; color:#069;">
+            Reported
+           </li>
+           <li id="reportMobile" style="display: none;">
+            <a class="dice-btn-link icon icon-flag-5 reportLink" href="#" onclick="openFeedBackModal('report');return false;">
+             Report a poor listing
+            </a>
+           </li>
+           <li id="ratedMobile" style="display: none;">
+            <a>
+             <span>
+              ☆☆☆
+             </span>
+             Rated
+            </a>
+           </li>
+           <li id="rateMobile" style="display: none;">
+            <a class="dice-btn-link rateLink" href="#" onclick="openFeedBackModal('rate');return false;">
+             <span>
+              ☆☆☆
+             </span>
+             Rate
+            </a>
+           </li>
+           <!-- 				<li>
+					<a href="#"><i class="fa fa-times-circle-o fa-lg" aria-hidden="true"></i> Not Interested in this job</a>
+				</li>
+				<li>
+					<a href="#"><i class="fa fa-times-circle-o fa-lg" aria-hidden="true"></i> Not Interested in this company</a>
+				</li> -->
+          </ul>
+         </div>
+        </div>
+        <input id="partnerSurveyURL" type="hidden" value="https://partner.techpapers.com/interstitial/interstitial.aspx?promo=111186"/>
+       </div>
+       <ul class="list-inline details pull-right djvReport hidden-xs" style="margin-top: 10px; clear: both;">
+        <!-- <li><a id="rate" data-toggle="modal" href="#rate-job" class="dice-btn-link"> Rate </a></li> -->
+        <input id="reportFlag" type="hidden" value="false"/>
+        <input id="rateFlag" type="hidden" value="false"/>
+        <li class="icon icon-flag-5" id="reported" style="color: #069; display: none;">
+         Reported
+        </li>
+        <li id="report" style="display: none;">
+         <a class="dice-btn-link icon icon-flag-5 reportLink" href="#" onclick="openFeedBackModal('report');return false;">
+          Report a poor listing
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- START REPORT MODAL -->
+  <div class="modal fade reportModal" id="report-job" role="dialog">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <button aria-hidden="true" class="close icon-delete-1" data-dismiss="modal" type="button">
+      </button>
+      <h3 class="modal-title">
+       Report
+      </h3>
+     </div>
+     <div class="modal-body">
+      <form id="reportModalForm">
+       <div class="row">
+        <div class="col-md-12">
+         <div class="alert alert-danger" id="errorReportJob" role="alert" style="display: none;">
+          Select one of the choices below and input Explanation.
+         </div>
+         <div class="alert alert-danger" id="genericErrMsg" role="alert" style="display: none;">
+          Sorry! Unable to process, Please try again later.
+         </div>
+         <div class="alert alert-danger" id="errorMsg" role="alert" style="display: none;">
+          Sorry! Unable to process, Please try again later.
+         </div>
+         <div class="radio">
+          <label>
+           <input name="reportRadio" type="radio" value="Misrepresented job"/>
+           Misrepresented job
+          </label>
+         </div>
+         <div class="radio">
+          <label>
+           <input name="reportRadio" type="radio" value="Pays below market level"/>
+           Pays below market level
+          </label>
+         </div>
+         <div class="radio">
+          <label>
+           <input name="reportRadio" type="radio" value="Not a real job"/>
+           Not a real job
+          </label>
+         </div>
+         <div class="radio">
+          <label>
+           <input name="reportRadio" type="radio" value="Position no longer available"/>
+           Position no longer available
+          </label>
+         </div>
+         <div class="radio">
+          <label>
+           <input name="reportRadio" type="radio" value="Other"/>
+           Other
+          </label>
+         </div>
+         <!-- <div>
+                            <textarea style="resize: none;" disabled="disabled" id="6" rows="2" cols="50" class="form-control" maxlength="400"  placeholder="Enter text here..."></textarea>
+                        </div> -->
+        </div>
+        <div class="col-md-12">
+         <span>
+          Please Provide an Explanation (400 character limit)
+         </span>
+         <textarea class="form-control" cols="50" id="txtAreaDesc" maxlength="400" placeholder="Enter text here..." rows="2" style="resize: none;"></textarea>
+        </div>
+        <!-- <div class="form-group" id="googleCaptchaSection">
+                       <div class="col-sm-12 col-md-8 col-lg-8">
+                           <div class="has-feedback">
+                               <input type="hidden" name="diceCaptcha" value="false" id="diceCaptcha"/>
+                               <div id="gRecaptcha"></div>
+                           </div>
+                      </div>
+                   </div> -->
+       </div>
+      </form>
+     </div>
+     <div class="modal-footer">
+      <span id="reportLoaderImg" style="display: none;">
+       <img alt="Loading" src="//assets.dice.com/techpro/img/loading24px.gif"/>
+      </span>
+      <button class="btn btn-default dice-btn-secondary" data-dismiss="modal">
+       <span>
+        Cancel
+       </span>
+      </button>
+      <button class="btn btn-default btn-primary " onclick="submitReport()">
+       <span>
+        Submit
+       </span>
+      </button>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- END REPORT MODAL -->
+  <!-- START RATE MODAL -->
+  <div class="modal fade" id="rate-job" role="dialog">
+   <div class="modal-dialog modal-sm">
+    <div class="modal-content">
+     <div class="modal-header">
+      <button aria-hidden="true" class="close icon-delete-1" data-dismiss="modal" type="button">
+      </button>
+      <h3 class="modal-title">
+       Rate
+      </h3>
+     </div>
+     <div class="modal-body">
+      <form id="rateModalForm">
+       <div class="row">
+        <div class="col-md-12">
+         <div class="alert alert-danger" id="errorRateJob" role="alert" style="display: none;">
+          Select one of the choices below.
+         </div>
+         <div class="alert alert-danger" id="errorRateMsg" role="alert" style="display: none;">
+          Seems Resource already exists.
+         </div>
+         <div class="alert alert-danger" id="genericRateErrMsg" role="alert" style="display: none;">
+          Sorry! Unable to process, Please try again later.
+         </div>
+         <div class="radio">
+          <label>
+           <input name="rateRadio" type="radio" value="1"/>
+           Positive
+          </label>
+         </div>
+         <div class="radio">
+          <label>
+           <input name="rateRadio" type="radio" value="0"/>
+           Neutral
+          </label>
+         </div>
+         <div class="radio">
+          <label>
+           <input name="rateRadio" type="radio" value="-1"/>
+           Negative
+          </label>
+         </div>
+        </div>
+       </div>
+      </form>
+     </div>
+     <div class="modal-footer">
+      <span id="rateLoaderImg" style="display: none;">
+       <img alt="Loading" src="//assets.dice.com/techpro/img/loading24px.gif"/>
+      </span>
+      <button class="btn btn-default dice-btn-secondary" data-dismiss="modal">
+       <span>
+        Cancel
+       </span>
+      </button>
+      <button class="btn btn-default btn-primary " onclick="submitRate()">
+       <span>
+        Submit
+       </span>
+      </button>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- END REPORT MODAL -->
+  <!-- START  Create DJV Job Alert MODAL -->
+  <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" id="myDJVJOBALERTModal" role="dialog" tabindex="-1">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header" style="background-color: #ddd;">
+      <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+      <h3 class="modal-title djvmodeltitle" id="DJVmyModalLabel">
+       Create an Email Alert
+      </h3>
+     </div>
+     <div class="modal-body" style="background-color: #f5f5f5;">
+      <form class="form-horizontal" id="DJVCreateAlertForm_1" name="DJVjobAlert">
+       <!-- 					<div class="alert alert-danger hidden" id = "noneditTitle" style ="font-size: 11px;">Please enter a Title or Skills.</div>
+					<div class="alert alert-danger hidden" id = "noneditlocation" style ="font-size: 11px;">Please enter a location.</div> -->
+       <div class="row" id="noneditalertdetails">
+        <div class="col-md-12">
+         <div class="col-md-10 col-xs-10 col-sm-10">
+          <span class="djvtit">
+           Title:
+          </span>
+          <p class="djvtit" id="labelJobtitle" style="margin-left:40px; margin-top:-22px;" value="ILM Systems Administrator">
+           ILM Systems Administrator
+          </p>
+         </div>
+         <div class="col-md-2 col-xs-2 col-sm-2">
+          <a class="btn-valign pull-right" onclick="DJVJobAlterDetailsEdit()" style="font-size: 16px; cursor: pointer;">
+           Edit
+          </a>
+         </div>
+        </div>
+        <div class="col-md-12 col-xs-12 col-sm-12">
+         <span class="djvskill">
+          Skill:
+         </span>
+         <p class="pdjvskill" id="labelskill" style="overflow: hidden;text-overflow: ellipsis;" title="Atlas,Disaster Recovery,DNS,IBM,Lifecycle" value="Atlas,Disaster Recovery,DNS,IBM,Lifecycle">
+          Atlas,Disaster Recovery,DNS,IBM,Lifecycle
+         </p>
+        </div>
+        <div class="col-md-12 col-xs-12 col-sm-12">
+         <p class="djvLoc" id="labellocation" value="Denver, CO">
+          Denver, CO
+         </p>
+        </div>
+       </div>
+       <div class="row" id="editalertdetails" style="display:none;">
+        <div class="col-md-12">
+         <div class="form-group">
+          <div class="col-md-8 col-xs-8 col-sm-8">
+           <div class="dice-float-label dice-float-label-on">
+            <label for="djvJobTitle" style="margin-left: 13px;">
+             Title
+            </label>
+            <input autocomplete="off" class="form-control input-md" id="djvJobTitle" maxlength="80" type="text" value="ILM Systems Administrator"/>
+           </div>
+           <div class="help-block hidden" id="djvvalidTitle" style="font-size: 11px; margin-bottom: -10px;">
+            Please enter a title and/or skill.
+           </div>
+          </div>
+          <div class="col-md-4 col-xs-4 col-sm-4">
+           <a class="btn-valign pull-right" onclick="DJVJobAlterDetailsDone()" style="font-size: 16px; cursor: pointer;">
+            Done
+           </a>
+          </div>
+         </div>
+        </div>
+        <div class="col-md-12">
+         <div class="form-group">
+          <div class="col-md-8 col-xs-8 col-sm-8 ">
+           <div class="dice-float-label dice-float-label-on">
+            <label for="djvskills" style="margin-left: 13px;">
+             Skill
+            </label>
+            <input autocomplete="off" class="form-control input-md" id="djvskills" maxlength="80" type="text" value="Atlas,Disaster Recovery,DNS,IBM,Lifecycle"/>
+           </div>
+           <div class="help-block hidden" id="djvvalidskill" style="font-size: 11px;">
+            Please enter a skill.
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="col-md-12">
+         <div class="form-group">
+          <div class="col-md-8 col-xs-8 col-sm-8 ">
+           <div class="dice-float-label dice-float-label-on">
+            <label for="djvLocation" style="margin-left: 13px;">
+             Location
+            </label>
+            <input autocomplete="off" class="form-control input-md" id="djvLocation" maxlength="80" type="text" value="Denver, CO"/>
+           </div>
+           <div class="help-block hidden" id="djvvalidlocation" style="font-size: 11px; margin-bottom: -15px;">
+            Please enter a location.
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </form>
+     </div>
+     <div class="modal-footer" style="border-top: 0!important; margin-top:0px;">
+      <div class="row">
+       <div class="col-xs-12 col-sm-12 col-md-8 dice-float-label dice-float-label-on" id="divemail" style="background :none !important;">
+        <label for="djvatertEmailp" id="labEmail">
+         Email
+        </label>
+        <input class="form-control input-md" id="djvalertEmail" name="email" type="text" value=""/>
+        <input class="form-control hidden" id="djvalertDisabled" name="disabled" type="text" value="false"/>
+        <input class="form-control hidden" id="djvemailFrequency" name="emailFrequency" type="text" value="never"/>
+        <div class="help-block hidden pull-left smvalemail" id="djvvalidEmail">
+         Please enter a valid email (email@domain.com).
+        </div>
+       </div>
+       <div class="col-xs-12 col-sm-12 col-md-4">
+        <button class="btn btn-primary btn-lg" id="certedalertbtn" onclick="djvcrateJobAlter()" type="button">
+         Create Alert
+        </button>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- END  Create DJV Job Alert MODAL -->
+  <!-- job header code end-->
+  <!-- job detail section start-->
+  <div class="container job-details" id="bd" style="padding-top: 0px;">
+   <div class="row">
+    <div class="col-md-12">
+     <div class="mjob-banner visible-xs">
+      <div class="bl">
+       <div class="bl-sec">
+        <div class="bl-block">
+         <img alt="company banner" border="0" src="//assets.dice.com/techpro/companies/brandMax/Judge/banner-1000.jpg"/>
+        </div>
+       </div>
+      </div>
+      <div class="br">
+       <div class="brc-sec">
+        <div class="brcs-logo">
+         <div class="brcsl-block">
+          <div class="brcslb-img">
+           <img border="0" src="//assets.dice.com/techpro/companies/brandMax/Judge/square-300.jpg"/>
+          </div>
+         </div>
+        </div>
+        <div class="brcs-title">
+         <div class="brcs-block">
+          The Judge Group
+         </div>
+        </div>
+        <div class="brcs-title">
+         <div class="brcs-block">
+         </div>
+        </div>
+        <div class="brcs-sc">
+         <a class="social-icon" href="https://twitter.com/JudgeGroup">
+          <span class="icon-twitter-circle">
+          </span>
+         </a>
+         <a class="social-icon" href="https://www.facebook.com/judgegroup">
+          <span class="icon-facebook-circle">
+          </span>
+         </a>
+         <a class="social-icon" href="https://plus.google.com/117475960742335298759/about">
+          <span class="icon-gplus-circle">
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="job-banner hidden-xs">
+      <div class="bl">
+       <div class="bl-sec">
+        <div class="bl-block">
+         <img alt="company banner" border="0" src="//assets.dice.com/techpro/companies/brandMax/Judge/banner-1000.jpg"/>
+        </div>
+       </div>
+      </div>
+      <div class="br">
+       <div class="br-sec">
+        <div class="br-block">
+         <div class="br-block-img">
+          <img alt="company banner" border="0" class="foggy-image" crossorigin="anonymous" src="//assets.dice.com/techpro/companies/brandMax/Judge/banner-1000.jpg"/>
+         </div>
+        </div>
+       </div>
+       <div class="brc-sec">
+        <div class="brcs-logo">
+         <div class="brcsl-block">
+          <div class="brcslb-img">
+           <img border="0" src="//assets.dice.com/techpro/companies/brandMax/Judge/square-300.jpg"/>
+          </div>
+         </div>
+        </div>
+        <div class="brcs-title">
+         <div class="brcs-block">
+          The Judge Group
+         </div>
+        </div>
+        <div class="brcs-title">
+         <div class="brcs-block">
+         </div>
+        </div>
+        <div class="brcs-sc">
+         <a class="social-icon" href="https://twitter.com/JudgeGroup">
+          <span class="icon-twitter-circle">
+          </span>
+         </a>
+         <a class="social-icon" href="https://www.facebook.com/judgegroup">
+          <span class="icon-facebook-circle">
+          </span>
+         </a>
+         <a class="social-icon" href="https://plus.google.com/117475960742335298759/about">
+          <span class="icon-gplus-circle">
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="row">
+    <div class="col-md-9">
+     <input id="estJLoc" type="hidden" value="Denver, CO"/>
+     <input id="estSkillText" type="hidden" value="Atlas, Disaster Recovery, DNS, IBM, Lifecycle, Linux, Manager, Oracle, Project, Protocols, SMTP, SQL, Systems Admin, Systems Administrator, WebSphere, Windows"/>
+     <input id="estJTitle" type="hidden" value="ILM Systems Administrator"/>
+     <input id="taxTermsTextId" type="hidden" value="Contract Corp-To-Corp, Contract Independent, Contract W2, C2H Corp-To-Corp, C2H Independent, C2H W2"/>
+     <input id="pcip" type="hidden" value="66.161.240.146"/>
+     <input id="easyapplyCountries" type="hidden" value="united states, canada"/>
+     <input id="maxCountNonEasyApply" type="hidden" value="5"/>
+     <div class="row job-info">
+      <div class="col-md-12">
+       <div class="pull-left">
+        <span class="icon-plugin-1 icons">
+        </span>
+       </div>
+       <div class="iconsiblings">
+        Atlas, Disaster Recovery, DNS, IBM, Lifecycle, Linux, Manager, Oracle, Project, Protocols, SMTP, SQL, Systems Admin, Systems Administrator, WebSphere, Windows
+       </div>
+      </div>
+     </div>
+     <div class="row job-info">
+      <div class="col-md-12">
+       <div class="pull-left">
+        <span class="icons icon-briefcase">
+        </span>
+       </div>
+       <div class="iconsiblings">
+        <span>
+         Contract Corp-To-Corp, Contract Independent, Contract W2, C2H Corp-To-Corp, C2H Independent, C2H W2
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="row job-info">
+      <div class="col-md-12">
+       <div class="pull-left">
+        <span class="icon-bank-note icons">
+        </span>
+       </div>
+       <div class="iconsiblings">
+        <span class="mL20">
+         Negotiable
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="row job-info">
+      <div class="col-md-12">
+       <div class="pull-left">
+        <span class="icons icon-network-2">
+        </span>
+       </div>
+       <div class="iconsiblings">
+        <span class="mL20">
+         Telecommuting not available
+        </span>
+        <span>
+         Travel not required
+        </span>
+       </div>
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-md-12">
+       <h2 class="jobdesc">
+        Job Description
+       </h2>
+       <div class="highlight-black" id="jobdescSec">
+        <br/>
+        Please send all applicable resume in .doc/.docx format to: kvinson@judge.com.
+        <br/>
+        *** W2 CANDIDATES ONLY - PLEASE DO NOT APPLY IF 3RD PARTY ***
+        <br/>
+        ILM SYSTEMS ADMIN - 6+ MONTH CONTRACT/POSS. FOR PERM - Denver, CO
+        <br/>
+        <br/>
+        <b>
+         Job Description:
+        </b>
+        <br/>
+        You will function as a member of the Tier III team responsible for administering and supporting various ILM applications (mostly IBM) utilized by the program. This technical role requires the candidate to administer and manage the application infrastructure, support project initiatives, and assist in developing operational readiness. Where appropriate, the candidate will be asked to provide technical documentation, mentor peers, interact with customers, and serve in a support function.
+        <br/>
+        <br/>
+        <b>
+         Must-Haves:
+        </b>
+        <br/>
+        <br/>
+        - 5+ years of Windows Server System Administration experience with enterprise Linux experience a plus
+        <br/>
+        <br/>
+        - Experience installing, configuring, patching, upgrading, and monitoring servers and associated applications
+        <br/>
+        <br/>
+        - Experience with IBM Filenet P8 and WebSphere Application Server
+        <br/>
+        <br/>
+        - Experience with Oracle DBMS and SQL Queries
+        <br/>
+        <br/>
+        - Demonstrated troubleshooting skills related to enterprise applications and client/server communications
+        <br/>
+        <br/>
+        - Strong written, verbal, and interpersonal communications skills including ability to listen attentively and to communicate information clearly and effectively
+        <br/>
+        <br/>
+        - Familiarity with one or more IBM Information LifeCycle Governance (ILG) products: StoredIQ, eDiscovery Manager, Enterprise Records, and Atlas
+        <br/>
+        <br/>
+        - Familiarity with Legal File Plans, Records, and Retention schedules
+        <br/>
+        <br/>
+        - Familiarity with Service Now or similar tools
+        <br/>
+        <br/>
+        - Network configurations (VLANS, Firewalls, Load Balancers) and various protocols (DNS / SMTP / LDAP / )
+        <br/>
+        <br/>
+        - Disaster Recovery planning
+        <br/>
+        <br/>
+        Thank you!
+        <br/>
+        <br/>
+        <br/>
+        <b>
+         ID:
+        </b>
+        518315
+        <br/>
+        <b>
+         Type:
+        </b>
+        Contract
+        <br/>
+        <b>
+         Salary:
+        </b>
+        Competitive
+       </div>
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-md-12 applySec lowerApply" id="lowerApplyBtn">
+       <button class="btn btn-primary btn-lg dice-btn apply disableButton" disabled="disabled" id="applybtn" onclick="checkModalHTML();" type="button">
+        Apply Now
+       </button>
+       <button class="btn btn-default dice-btn-secondary hidden-md hidden-lg hidden-xl" id="saveBtn2" isclicksavedjob="false" issavedjob="false" onclick="saveJob(this)" type="button">
+        <span class="icon-star-1">
+        </span>
+        Save this job
+       </button>
+      </div>
+     </div>
+     <!-- DJV Estimated Salaries Section -->
+     <br/>
+     <hr/>
+     <div class="row">
+      <div class="col-md-12">
+       <h1 class="jobdesc">
+        Company Information
+       </h1>
+       <div class="highlight-black mTB20">
+        Working at the crossroads of people and transformative technologies, The Judge Group delivers innovative business solutions – powered by top talent – to help organizations reach their strategic goals and realize opportunities now and in the future. The Judge Group is a leading professional services firm specializing in technology, talent, and learning solutions. Our services are successfully delivered through a network of more than 35 offices in the United States, Canada, China, and India. The Judge Group serves more than 40 Fortune 100 companies and is responsible for the placement of more than 4,500 professionals annually across a wide range of industries. To learn more, visit www.judge.com.
+       </div>
+      </div>
+     </div>
+     <div class="row">
+      <div class="col-md-6 wrap-l">
+       <img class="company-media" src="//assets.dice.com/techpro/companies/brandMax/Judge/rectangle-400.jpg"/>
+      </div>
+     </div>
+    </div>
+    <div class="col-md-3">
+     <!-- company detail, similar jobs and ad section start-->
+     <div class="company-header-info">
+      <div class="row">
+       <div class="col-md-12">
+        Dice Id : cxjudgpa
+       </div>
+      </div>
+      <div class="row">
+       <div class="col-md-12">
+        Position Id : 518315
+       </div>
+      </div>
+     </div>
+     <div id="positionsat">
+      <h4 class="poistionat">
+       Similar Positions at The Judge Group
+      </h4>
+      <div class="mTB10">
+       <a href="https://www.dice.com/jobs/detail/Enterprise-Messaging-Systems-Administrator-The-Judge-Group-Denver-CO-80002/cxjudgpa/519023">
+        Enterprise Messaging Systems Administrator
+       </a>
+       <ul class="list-inline details">
+        <li class="similerText1">
+         Denver, CO
+        </li>
+        <li class="similerText1">
+         1 day ago
+        </li>
+       </ul>
+      </div>
+      <div class="mTB10">
+       <a href="https://www.dice.com/jobs/detail/Corp-Applications-Systems-Administrators-The-Judge-Group-Denver-CO-80002/cxjudgpa/518323">
+        Corp Applications Systems Administrators
+       </a>
+       <ul class="list-inline details">
+        <li class="similerText1">
+         Denver, CO
+        </li>
+        <li class="similerText1">
+         1 day ago
+        </li>
+       </ul>
+      </div>
+      <div class="mTB10">
+       <a href="https://www.dice.com/jobs/detail/Systems-Administrator-The-Judge-Group-Boulder-CO-80301/cxjudgpa/515996">
+        Systems Administrator
+       </a>
+       <ul class="list-inline details">
+        <li class="similerText1">
+         Boulder, CO
+        </li>
+        <li class="similerText1">
+         1 day ago
+        </li>
+       </ul>
+      </div>
+      <div class="mTB10">
+       <a href="https://www.dice.com/jobs/detail/Windows-Server-Administrator-The-Judge-Group-Denver-CO-80002/cxjudgpa/516294">
+        Windows Server Administrator
+       </a>
+       <ul class="list-inline details">
+        <li class="similerText1">
+         Denver, CO
+        </li>
+        <li class="similerText1">
+         1 day ago
+        </li>
+       </ul>
+      </div>
+      <div class="mTB10">
+       <a href="https://www.dice.com/jobs/detail/Java-Systems-Architect-The-Judge-Group-Denver-CO-80002/cxjudgpa/519022">
+        Java Systems Architect
+       </a>
+       <ul class="list-inline details">
+        <li class="similerText1">
+         Denver, CO
+        </li>
+        <li class="similerText1">
+         1 day ago
+        </li>
+       </ul>
+      </div>
+      <div class="mTB10">
+       <a href="https://www.dice.com/jobs/detail/Systems-Engineer-The-Judge-Group-Denver-CO-80002/cxjudgpa/517037">
+        Systems Engineer
+       </a>
+       <ul class="list-inline details">
+        <li class="similerText1">
+         Denver, CO
+        </li>
+        <li class="similerText1">
+         1 day ago
+        </li>
+       </ul>
+      </div>
+      <div class="mTB10">
+       <a href="https://www.dice.com/jobs/detail/Infrastructure-Support-The-Judge-Group-Denver-CO-80002/cxjudgpa/515326">
+        Infrastructure Support
+       </a>
+       <ul class="list-inline details">
+        <li class="similerText1">
+         Denver, CO
+        </li>
+        <li class="similerText1">
+         1 day ago
+        </li>
+       </ul>
+      </div>
+      <div class="mTB10">
+       <a href="https://www.dice.com/jobs/detail/Senior-Security-Engineer%26%2345-CyberArk-%26%2347-Vasco-The-Judge-Group-Broomfield-CO-80020/cxjudgpa/508473">
+        Senior Security Engineer- CyberArk / Vasco
+       </a>
+       <ul class="list-inline details">
+        <li class="similerText1">
+         Broomfield, CO
+        </li>
+        <li class="similerText1">
+         1 day ago
+        </li>
+       </ul>
+      </div>
+      <div class="mTB10">
+       <a href="https://www.dice.com/jobs/detail/Cyber-Engineer-The-Judge-Group-Denver-CO-80002/cxjudgpa/515006">
+        Cyber Engineer
+       </a>
+       <ul class="list-inline details">
+        <li class="similerText1">
+         Denver, CO
+        </li>
+        <li class="similerText1">
+         1 day ago
+        </li>
+       </ul>
+      </div>
+      <div class="mTB10">
+       <a href="https://www.dice.com/jobs/detail/Monitoring-Engineer-The-Judge-Group-Denver-CO-80002/cxjudgpa/513267">
+        Monitoring Engineer
+       </a>
+       <ul class="list-inline details">
+        <li class="similerText1">
+         Denver, CO
+        </li>
+        <li class="similerText1">
+         1 day ago
+        </li>
+       </ul>
+      </div>
+     </div>
+     <!-- company detail, similar jobs and ad section start-->
+    </div>
+   </div>
+  </div>
+  <!-- job detail section end-->
+  <!-- job footer section start-->
+  <input id="diceCompanyId" type="hidden" value="4561"/>
+  <input id="hackerEarthEnabled" type="hidden" value="false"/>
+  <input class="hackEarthSkills" type="hidden" value="java:18884,sql:18884,html:18884,jquery:18884,spring:18884,qa:18884,database:18884"/>
+  <script async="" defer="" src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&amp;render=explicit">
+  </script>
+  <script type="text/javascript">
+   var onloadCallback = function() {
+			grecaptcha.render('gRecaptcha', {
+				'sitekey' : '6LegeAwTAAAAAORvSVZWpiKSatmCEZbdLnbqW7N7',
+				'expired-callback': expCallback
+			});
+		};
+		var expCallback = function() {
+			grecaptcha.reset();
+		};
+        function errorImg(obj) {
+            $(obj).hide();
+            $(obj).parent().siblings('.logopath').show();
+        }
+  </script>
+  <!-- SEND JOB ON EMAIL MODAL START-->
+  <div aria-hidden="true" aria-labelledby="email-job-label" class="modal fade" id="email-job-modal" role="dialog">
+   <input id="techProUrl" type="hidden" value="https://www.dice.com/company/"/>
+   <input id="udemyURL" type="hidden" value="https://www.udemy.com"/>
+   <input id="trackingUdemy" type="hidden" value="?utm_source=dice&amp;utm_medium=web&amp;utm_campaign=dicepromo&amp;pmtag=dice040promo&amp;aff_code=Ewh3Y19bQHUGQRt3MkBPbG1RGXFfVFh8BV4bdk5QR3YAQxF1WD5XMRM="/>
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header email-modal" style="background: #ddd;">
+      <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+      <h4 class="modal-title" style="font-style:italic;">
+       Email this Job
+      </h4>
+      <meta content="email_job_modal" name="ompagename"/>
+      <meta content="tech pro" name="channel"/>
+     </div>
+     <div class="modal-body">
+      <form class="form-horizontal" id="email-job-form">
+       <input id="subject" name="subject" type="hidden" value="ILM Systems Administrator @The Judge Group"/>
+       <input id="body" name="body" type="hidden" value="I found this great &lt;a href='https://www.dice.com/jobs/detail/cxjudgpa/518315' target='_blank'&gt;opportunity on Dice&lt;/a&gt;, 
+					and thought it might be helpful in your job search."/>
+       <input id="body-2" name="body" type="hidden" value="found this great &lt;a href='https://www.dice.com/jobs/detail/cxjudgpa/518315' target='_blank'&gt;opportunity on Dice&lt;/a&gt;, 
+					and thought it might be helpful in your job search."/>
+       <div class="alert alert-danger hidden" id="email-error">
+       </div>
+       <div class="form-group">
+        <div class="col-sm-3">
+         <label class="control-label">
+          Your Name
+         </label>
+        </div>
+        <div class="col-sm-9">
+         <input class="form-control" id="name-1" maxlength="70" name="fromName" placeholder="Enter your name (optional)" type="text"/>
+        </div>
+        <label class="col-sm-1">
+        </label>
+       </div>
+       <input id="email-1" name="fromAddress" type="hidden" value="no-reply@dice.com"/>
+       <div class="form-group">
+        <div class="col-sm-3" style="padding-right: 0px;">
+         <label class="control-label">
+          Recipient's Email
+         </label>
+        </div>
+        <div class="col-sm-9">
+         <input class="form-control" id="email-2" maxlength="256" name="toAddress" placeholder="Enter recipient's email" type="text"/>
+        </div>
+       </div>
+       <div class="form-group">
+        <div class="col-sm-3">
+         <label class="control-label">
+          Message
+         </label>
+        </div>
+        <div class="col-sm-9">
+         <textarea class="form-control" id="msg" maxlength="256" placeholder="Enter a short synopsis (optional)" rows="3" style="resize: none;"></textarea>
+        </div>
+       </div>
+       <div class="privacy-policy col-offset-md-6">
+        <a href="http://www.dice.com/about/privacy" style="text-decoration: none;" target="_blank">
+         * Privacy Policy
+        </a>
+       </div>
+      </form>
+     </div>
+     <div class="modal-footer" style="margin-top:0px;">
+      <div class="col-md-6">
+       <button class="btn btn-primary pull-left btn-lg" id="djvSendEmail" onclick="sendEmail()" type="button">
+        Send Email
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- SEND JOB ON EMAIL MODAL END-->
+  <div aria-hidden="true" aria-labelledby="questionair_offcc_signIn" class="modal fade apply-job" id="questionair_offcc_signIn-modal" role="dialog">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <meta content="apply_job_questionair_offcc_signIn_modal" name="ompagename"/>
+      <meta content="tech pro" name="channel"/>
+      <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+      <h4 class="modal-title">
+       Easy Apply
+      </h4>
+     </div>
+     <div class="modal-body" style="padding-bottom: 5px;">
+      <div class="ea-job-info">
+       <div class="row">
+        <div class="col-sm-12">
+         <h2 class="ea-job-title">
+          ILM Systems Administrator
+         </h2>
+         <h3 class="ea-company">
+          The Judge Group | Denver, CO
+         </h3>
+        </div>
+       </div>
+      </div>
+      <div class="row">
+       <label class="col-sm-8 control-label">
+        <h3 class="signin-header">
+         Sign In
+        </h3>
+       </label>
+      </div>
+      <form class="form-horizontal" id="questionair_offcc_signIn">
+       <div class="alert alert-danger" id="apply_job_signIn_error-alert" style="display: none;">
+        <strong>
+         Email and/or password incorrect.
+        </strong>
+        Please try again or contact customer service at 888-321-DICE (3423).
+       </div>
+       <input id="apply_job_signIn_error-alert-section" type="hidden" value="false"/>
+       <div class="form-group" style="margin-bottom: 15px">
+        <div class="col-sm-12 col-md-2 col-lg-2 control-label">
+         <label>
+          Email
+         </label>
+        </div>
+        <div class="col-sm-12 col-md-8 col-lg-8 has-feedback" id="applyJobEmail-group">
+         <input class="form-control" id="applyJobEmail" maxlength="70" name="email" type="text"/>
+         <span class="form-control-feedback glyphicon" id="applyJobEmail-glyph">
+         </span>
+         <div class="help-block" id="applyJobEmail-feedback-message" style="display: none;">
+          Please enter a valid email.
+         </div>
+        </div>
+       </div>
+       <div class="form-group" style="margin-bottom: 15px">
+        <div class="col-sm-12 col-md-2 col-lg-2 control-label">
+         <label>
+          Password
+         </label>
+        </div>
+        <div class="col-sm-12 col-md-8 col-lg-8 has-feedback" id="applyJobPassword-group">
+         <input class="form-control" id="applyJobPassword" maxlength="50" name="password" type="password"/>
+         <span class="form-control-feedback glyphicon" id="applyJobPassword-glyph">
+         </span>
+         <div class="help-block" id="applyJobPassword-feedback-message" style="display: none;">
+          8 character minimum with at least 1 number and 1 letter.
+         </div>
+        </div>
+       </div>
+       <div class="form-group">
+        <div class="col-md-3 col-md-offset-2 col-sm-6 col-xs-12 hidden-lg hidden-md text-right">
+         <p class="forgotPassword">
+          <a href="http://www.dice.com/profman/resetPassword.jsp" target="_blank">
+           Forgot Password?
+          </a>
+         </p>
+        </div>
+        <div class="col-md-3 col-md-offset-2 col-sm-6 col-xs-12">
+         <button class="btn btn-primary dice-btn btn-lg" id="applyJob-log-in-btn" type="button">
+          Sign In
+          <span class="icon-loading hidden">
+          </span>
+         </button>
+        </div>
+        <div class="col-md-3 col-md-offset-2 col-sm-6 col-xs-12 hidden-xs hidden-sm text-right">
+         <p class="forgotPassword">
+          <a href="http://www.dice.com/profman/resetPassword.jsp" target="_blank">
+           Forgot Password?
+          </a>
+         </p>
+        </div>
+       </div>
+      </form>
+     </div>
+     <div class="modal-footer">
+      Don't have an account?
+      <a href="/register" id="register" onclick="return redirectURLCookie();" style="color: #2a6496;" target="_parent">
+       Register
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div aria-hidden="true" aria-labelledby="cover-resume-label" class="modal fade apply-job" id="cover-resume-modal" role="dialog">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <meta content="apply_job_peopleData_modal" name="ompagename"/>
+      <meta content="tech pro" name="channel"/>
+      <input id="isByPassCaptcha" type="hidden" value=""/>
+      <input id="dailyApplyLimit" type="hidden" value="250"/>
+      <input id="dailyApplyLimitReachedMessage" type="hidden" value="You have reached your daily limit for applications. Please try again later."/>
+      <input id="applyNonCaptchaDirect" type="hidden" value="united states"/>
+      <input id="applyCaptchaCount" type="hidden" value="15"/>
+      <input id="validateCountries" type="hidden" value="us,ca"/>
+      <input id="isGoogleCaptchaV1On" type="hidden" value="false"/>
+      <input id="valCountries" type="hidden" value="united states, canada"/>
+      <input id="isPeopleThirdParty" type="hidden" value=""/>
+      <input id="peopleWorkAuth" type="hidden" value=""/>
+      <input id="isEmpTypeChanged" name="isEmpTypeChanged" type="hidden" value="false"/>
+      <input id="empTypeSelectedValue" name="empTypeSelectedValue" type="hidden" value="no value"/>
+      <div class="row">
+       <div class="col-sm-9 col-xs-7">
+        <h4 class="modal-title">
+         Easy Apply
+        </h4>
+       </div>
+       <div class="col-sm-2 col-xs-1" style="padding-left:0px;">
+        <div class="stepsect">
+         Step 1 of
+         <span class="steps">
+          3
+         </span>
+        </div>
+       </div>
+       <div class="col-sm-1">
+        <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+         ×
+        </button>
+       </div>
+      </div>
+     </div>
+     <div class="modal-body">
+      <div class="ea-job-info" id="ea-job-info" style="display:none;">
+       <div class="row">
+        <div class="col-sm-12">
+         <h2 class="ea-job-title">
+          ILM Systems Administrator
+         </h2>
+         <h3 class="ea-company">
+          The Judge Group | Denver, CO
+         </h3>
+        </div>
+       </div>
+      </div>
+      <div class="loadingPeopleData" id="loading-people-data">
+       <img src="//assets.dice.com/techpro/img/loading32px.gif"/>
+      </div>
+      <form class="form-horizontal" id="cover-resume-form">
+       <div class="alert alert-danger" id="apply-general-error-alert" style="display: none;">
+       </div>
+       <div class="alert alert-danger" id="apply-Captcha-error-alert" style="display: none;">
+       </div>
+       <input id="apply-general-error-section" type="hidden" value="false"/>
+       <div class="form-group">
+        <div class="col-sm-2 control-label">
+         <label>
+          Name
+         </label>
+        </div>
+        <div class="col-sm-10">
+         <div class="row">
+          <div class="col-xs-6 col-sm-6 has-feedback" id="fn-group">
+           <input class="form-control" id="fn-input" placeholder="First" required="required" type="text"/>
+           <span class="form-control-feedback glyphicon" id="fn-glyph">
+           </span>
+           <div class="help-block" id="fn-feedback-message" style="display: none;">
+            Your first name is required
+           </div>
+          </div>
+          <div class="col-xs-6 col-sm-6 has-feedback" id="ln-group">
+           <input class="form-control" id="ln-input" placeholder="Last" required="required" type="text"/>
+           <span class="form-control-feedback glyphicon" id="ln-glyph">
+           </span>
+           <div class="help-block" id="ln-feedback-message" style="display: none;">
+            Your last name is required
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="form-group">
+        <div class="col-sm-2 control-label">
+         <label>
+          Résumé
+         </label>
+        </div>
+        <div class="col-sm-10">
+         <div class="radio">
+          <label>
+           <input checked="" id="resume-radio" name="resumeRadios" type="radio" value="select"/>
+           Select a résumé
+          </label>
+         </div>
+         <div class="radio-form-input-group has-feedback" id="resume-select-group">
+          <input id="resume-select-val" name="resume-select-val" type="hidden" value="-1"/>
+          <div class="bfh-selectbox dropdown-toggle disabled" data-toggle="dropdown" id="resume-select">
+           <div class="bfh-selectbox-toggle form-control">
+            <span class="bfh-selectbox-option">
+             Loading
+            </span>
+            <span class="caret selectbox-caret">
+            </span>
+           </div>
+          </div>
+          <ul class="bfh-selectbox-options dropdown-menu pull-right" id="resume-select-options">
+          </ul>
+          <span class="form-control-feedback glyphicon bfh-selectbox-glyph" id="resume-choose-glyph">
+          </span>
+          <span class="help-block" id="resume-feedback-message" style="display: none;">
+           Choose one Résumé
+          </span>
+          <span class="help-block">
+           <a href="/dashboard#/profiles" target="_blank">
+            Manage your Résumé at Dice.com
+           </a>
+          </span>
+         </div>
+         <div class="radio">
+          <label>
+           <input id="upload-resume-radio" name="resumeRadios" type="radio" value="upload"/>
+           Upload a résumé
+          </label>
+         </div>
+         <div class="has-feedback radio-form-input-group" id="upload-resume-group" style="display: none;">
+          <div class="row">
+           <div class="col-sm-12">
+            <input class="form-control file-form-control" id="upload-resume-file-input" name="resumeFile" required="" type="file"/>
+            <span class="form-control-feedback glyphicon" id="upload-resume-glyph">
+            </span>
+           </div>
+          </div>
+          <div class="help-block">
+           <span id="upload-resume-feedback-message" style="display: none;">
+            Your résumé is required.
+           </span>
+           <span class="resume-format-support">
+            We support .doc, .docx, .pdf, .txt, .rtf, up to 2MB
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="form-group">
+        <div class="col-sm-2 control-label">
+         <label>
+          Cover Letter
+         </label>
+         <div class="help-block">
+          (optional)
+         </div>
+        </div>
+        <div class="col-sm-10">
+         <div class="radio">
+          <label>
+           <input checked="" id="cl-radio" name="messageRadios" type="radio" value="select"/>
+           Select a cover letter
+          </label>
+         </div>
+         <div class="radio-form-input-group has-feedback" id="cl-select-group">
+          <input id="cl-select-val" name="cl-select-val" type="hidden" value="-1"/>
+          <div class="bfh-selectbox dropdown-toggle disabled" data-toggle="dropdown" id="cl-select">
+           <div class="bfh-selectbox-toggle form-control">
+            <span class="bfh-selectbox-option">
+             Loading
+            </span>
+            <span class="caret selectbox-caret">
+            </span>
+           </div>
+          </div>
+          <ul class="bfh-selectbox-options dropdown-menu pull-right" id="cl-select-options">
+          </ul>
+          <span class="form-control-feedback glyphicon bfh-selectbox-glyph" id="cl-choose-glyph">
+          </span>
+          <span class="help-block" id="cl-feedback-message" style="display: none;">
+           Choose one cover letter
+          </span>
+          <span class="help-block">
+           <a href="/dashboard#/settings" target="_blank">
+            Manage your Cover Letter at Dice.com
+           </a>
+          </span>
+         </div>
+         <div class="radio" id="cover" style="padding-left: 0px;">
+          <label>
+           <a class="btn-valign" href="#" id="compose-cl-link">
+            Compose a cover letter
+           </a>
+           <textarea class="form-control" id="cl-textarea" rows="7" style="display: none;width: 100%; resize: none;"></textarea>
+          </label>
+         </div>
+        </div>
+       </div>
+       <!-- Third Party -->
+       <input id="uAuth" name="uAuth" type="hidden" value="Basic YlNCTjhCdUhlQUFzZTVBWmVsNlBleDRHNGhzRWxLRW53ZTVzTkRXNjpMeThyaU5zc0tudjhKNW12dDBkT213UjFVUEZ0cm5hTlpJN0tuMFRaMXNPMmV2Y3lNVVNJUUlocFRMeU5DRGdWUGxZbXd4bWN5cEUweGs3OUxuckdHMFVxcG9zMmNsNGVVSVZCQWJ0VTlaTWFvTU5wemR5ZFNxNUNrY3Nkc0Vieg=="/>
+       <input id="version2show" name="version2show" type="hidden" value="true"/>
+       <div class="form-group" id="third-party-section" style="display: none;">
+        <label class="col-sm-2">
+         You Are ...
+        </label>
+        <div class="has-feedback col-sm-10" id="third-party-select-group">
+         <div class="radio col-sm-12">
+          <label style="color: #333;">
+           <input class="third-party" id="third-party-no-radio" name="thirdPartyRadios" type="radio" value="false"/>
+           Applying for yourself
+          </label>
+         </div>
+         <div class="radio col-sm-12">
+          <label style="color: #333;">
+           <input class="third-party" id="third-party-yes-radio" name="thirdPartyRadios" type="radio" value="true"/>
+           A third party (recruiting agency, consultancy, etc.)
+          </label>
+         </div>
+         <div class="radio col-sm-12" id="third-party-message" style="display: none;padding-left:0px;">
+          <span class="help-block" style="color:#c00;">
+           Please choose one of the above options
+          </span>
+         </div>
+        </div>
+       </div>
+       <!-- Third Party END-->
+       <div class="row rowM hidden">
+        <div class="has-feedback col-sm-10 col-sm-offset-2" id="showEmpType">
+         <div>
+          <label>
+           What other type of jobs are you most interested in?
+          </label>
+         </div>
+         <br/>
+         <div class="radio-form-input-group has-feedback" id="employmentType-select">
+          <div class="bfh-selectbox-v2 bfh-selectbox-emp empType empTypeCss" id="empSel">
+           <div class="bfh-selectbox-toggle-v2 bfh-selectbox-toggle-emp form-control">
+            <span class="bfh-selectbox-option-v2 bfh-selectbox-option-emp ellipsed-emp">
+             Select Employment Type
+            </span>
+            <span class="caret selectbox-caret-emp">
+            </span>
+           </div>
+          </div>
+          <input class="empType" id="empTypeSel" type="hidden"/>
+          <span class="form-control-feedback glyphicon" id="dMenu">
+          </span>
+          <input id="jtype" name="jtype" type="hidden"/>
+          <ul class="dropdown-menu empmenucheck pull-right pull-top dT rT">
+           <li class="parent" id="jtype1">
+            <a href="javascript:void(0)" name="jtype" val="Full-Time">
+             <input type="checkbox"/>
+             <span class="padColor">
+              Full-Time
+             </span>
+            </a>
+           </li>
+           <li class="parent" id="jtype2">
+            <a href="javascript:void(0)" name="jtype" val="Part-Time">
+             <input type="checkbox"/>
+             <span class="padColor">
+              Part-Time
+             </span>
+            </a>
+           </li>
+           <li class="parent" id="jtype3">
+            <a href="javascript:void(0)" name="jtype" val="Contracts">
+             <input class="Contracts" type="checkbox"/>
+             <span class="padColor">
+              Contracts
+             </span>
+            </a>
+           </li>
+           <ul class="expandContracts hidden" style="list-style-type: none;">
+            <li class="child contractChild" id="jtype4">
+             <a href="javascript:void(0)" name="jtype" val="Contract - Independent">
+              <input class="Contract" type="checkbox"/>
+              <span class="padColor">
+               Contract - Independent
+              </span>
+             </a>
+            </li>
+            <li class="child contractChild" id="jtype5">
+             <a href="javascript:void(0)" name="jtype" val="Contract - W2">
+              <input class="Contract" type="checkbox"/>
+              <span class="padColor">
+               Contract - W2
+              </span>
+             </a>
+            </li>
+            <li class="child contractChild" id="jtype6">
+             <a href="javascript:void(0)" name="jtype" val="Contract to Hire - Independent">
+              <input class="Contract" type="checkbox"/>
+              <span class="padColor">
+               C2H Independent
+              </span>
+             </a>
+            </li>
+            <li class="child contractChild" id="jtype7">
+             <a href="javascript:void(0)" name="jtype" val="Contract to Hire - W2">
+              <input class="Contract" type="checkbox"/>
+              <span class="padColor">
+               C2H W2
+              </span>
+             </a>
+            </li>
+           </ul>
+           <li class="parent" id="jtype10">
+            <a href="javascript:void(0)" name="jtype" val="Third Party">
+             <input class="ThirdParty" type="checkbox"/>
+             <span class="padColor">
+              Third Party
+             </span>
+            </a>
+           </li>
+           <ul class="expandThirdParty hidden" style="list-style-type: none;">
+            <li class="child tpChild" id="jtype8">
+             <a href="javascript:void(0)" name="jtype" val="Contract - Corp-to-Corp">
+              <input class="thParty" type="checkbox"/>
+              <span class="padColor">
+               Contract - Corp-to-Corp
+              </span>
+             </a>
+            </li>
+            <li class="child tpChild" id="jtype9">
+             <a href="javascript:void(0)" name="jtype" val="Contract to Hire - Corp-to-Corp">
+              <input class="thParty" type="checkbox"/>
+              <span class="padColor">
+               Contract to Hire - Corp-to-Corp
+              </span>
+             </a>
+            </li>
+           </ul>
+          </ul>
+         </div>
+         <span class="help-block" id="employmentType-select-message" style="display: none;color:#c00;">
+          Choose Employment Type
+         </span>
+        </div>
+        <br/>
+       </div>
+       <div style="margin-top: 10px;">
+       </div>
+       <!-- Work Auth -->
+       <div class="row rowW" id="work-auth-section">
+        <div class="has-feedback col-sm-10 col-sm-offset-2" id="work-auth-select-group">
+         <div class="dropdown">
+          <div class="bfh-selectbox-v2 dropdown-toggle" data-toggle="dropdown">
+           <div class="bfh-selectbox-toggle-v2 form-control">
+            <span class="bfh-selectbox-option-v2 ellipsed-emp" id="selected">
+             Select Work Authorization
+            </span>
+            <span class="caret selectbox-caret-emp">
+            </span>
+           </div>
+          </div>
+          <input id="workauthval" name="workauthval" type="hidden" value="-1"/>
+          <ul class="dropdown-menu pull-right pull-top dT rT" id="work-auth-select">
+           <li>
+            <a href="#" tabindex="-1">
+             US Citizen
+            </a>
+           </li>
+           <li>
+            <a href="#" tabindex="-1">
+             Canadian Citizen
+            </a>
+           </li>
+           <li>
+            <a href="#" tabindex="-1">
+             Green Card Holder
+            </a>
+           </li>
+           <li>
+            <a href="#" tabindex="-1">
+             Need H1 Visa
+            </a>
+           </li>
+           <li>
+            <a href="#" tabindex="-1">
+             Have H1 Visa
+            </a>
+           </li>
+           <li>
+            <a href="#" tabindex="-1">
+             Employment Auth. Document
+            </a>
+           </li>
+           <li>
+            <a href="#" tabindex="-1">
+             TN Permit Holder
+            </a>
+           </li>
+          </ul>
+         </div>
+         <span class="form-control-feedback glyphicon wrkAuthCaret" id="work-auth-glyph">
+         </span>
+         <span class="help-block" id="work-auth-message" style="display: none;color:#c00;">
+          Choose Work Authorization
+         </span>
+        </div>
+       </div>
+       <div style="margin-top: 10px;">
+       </div>
+       <input id="isGoogleCaptchaOn_NEW_EA_ID" name="isGoogleCaptchaOn" type="hidden" value="true"/>
+       <div class="form-group" id="googleCaptchaSection1_NEW_EA_ID" style="display: none;">
+        <label class="col-sm-2 control-label left-align" style="font-weight: bold;">
+         Captcha
+        </label>
+        <div class="col-sm-6 has-feedback">
+         <input id="diceCaptcha_NEW_EA_ID" name="diceCaptcha" type="hidden" value="false"/>
+         <input name="captchaVersion1" type="hidden" value="false"/>
+         <input name="g-recaptcha-response" type="hidden" value="noGRecaptchaResp"/>
+         <link href="//assets.dice.com/techpro/css/responsive_recaptcha_version1.css" rel="stylesheet"/>
+         <script type="text/javascript">
+          var RecaptchaOptions = {
+    theme : 'custom',
+    custom_theme_widget: 'responsive_recaptcha'
+ };
+         </script>
+         <div id="responsive_recaptcha" style="display:none">
+          <div id="recaptcha_image">
+          </div>
+          <div class="recaptcha_only_if_incorrect_sol" style="color:red">
+           Incorrect please try again
+          </div>
+          <label class="solution">
+           <span class="recaptcha_only_if_image">
+            Type the text:
+           </span>
+           <span class="recaptcha_only_if_audio">
+            Enter the numbers you hear:
+           </span>
+           <input id="recaptcha_response_field" name="recaptcha_response_field" type="text"/>
+          </label>
+          <div class="options">
+           <a href="javascript:Recaptcha.reload()" id="icon-reload">
+            Get another CAPTCHA
+           </a>
+           <a class="recaptcha_only_if_image" href="javascript:Recaptcha.switch_type('audio')" id="icon-audio">
+            Get an audio CAPTCHA
+           </a>
+           <!-- 
+        <a class="recaptcha_only_if_audio" href="javascript:Recaptcha.switch_type('image')" id="icon-image">Get an image CAPTCHA</a> -->
+           <!--<a href="javascript:Recaptcha.showhelp()" id="icon-help">Help</a> -->
+          </div>
+         </div>
+         <script src="https://www.google.com/recaptcha/api/challenge?k=6LegeAwTAAAAAORvSVZWpiKSatmCEZbdLnbqW7N7 }" type="text/javascript">
+         </script>
+         <noscript>
+          <iframe frameborder="0" height="300" src="https://www.google.com/recaptcha/api/noscript?k=6LegeAwTAAAAAORvSVZWpiKSatmCEZbdLnbqW7N7" width="500">
+          </iframe>
+          <br/>
+          <textarea cols="40" name="recaptcha_challenge_field" rows="3">
+   </textarea>
+          <input name="recaptcha_response_field" type="hidden" value="manual_challenge"/>
+         </noscript>
+        </div>
+       </div>
+       <div class="form-group" id="googleCaptchaSection_NEW_EA_ID" style="display: none;">
+        <label class="col-sm-2 control-label left-align" style="font-weight: bold;">
+         Captcha
+        </label>
+        <div class="col-sm-6 has-feedback">
+         <input id="diceCaptcha_NEW_EA_ID" name="diceCaptcha" type="hidden" value="false"/>
+         <input name="captchaVersion1" type="hidden" value="false"/>
+         <input name="recaptcha_response_field" type="hidden" value="noReponseField"/>
+         <input name="recaptcha_challenge_field" type="hidden" value="noChallengeField"/>
+         <div class="g-recaptcha" id="gRecaptcha">
+         </div>
+        </div>
+       </div>
+       <!-- Captch End -->
+       <div class="privacy-policy col-offset-md-6">
+        <a href="http://www.dice.com/about/privacy" style="text-decoration: none;" target="_blank">
+         * Privacy Policy
+        </a>
+       </div>
+      </form>
+     </div>
+     <div class="modal-footer">
+      <div style="padding-left: 0px;">
+       <button class="btn btn-primary dice-btn btn-lg" id="continue-to-apply" style="display: none;" type="button">
+        Continue
+       </button>
+       <button class="btn btn-primary dice-btn btn-lg" id="submit-job-btn" style="display: none;" type="button">
+        Apply Now
+        <span class="icon-loading hidden">
+        </span>
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div aria-hidden="true" aria-labelledby="questionair-offcc-label" class="modal fade apply-job" id="questionair-offcc-modal" role="dialog">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <meta content="apply_job_questionair_offcc_modal" name="ompagename"/>
+      <meta content="tech pro" name="channel"/>
+      <div class="row">
+       <div class="col-sm-9 col-xs-7">
+        <h4 class="modal-title">
+         Easy Apply
+        </h4>
+       </div>
+       <div class="col-sm-2 col-xs-1" style="padding-left:0px;">
+        <div class="stepsect">
+         Step 2 of
+         <span class="steps">
+          3
+         </span>
+        </div>
+       </div>
+       <div class="col-sm-1">
+        <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+         ×
+        </button>
+       </div>
+      </div>
+     </div>
+     <div class="modal-body">
+      <div class="row">
+       <label class="col-sm-8 control-label">
+        Questionnaire
+       </label>
+       <div class="col-sm-4 required-all">
+        *All fields are required
+       </div>
+      </div>
+      <div class="loadingPeopleData" id="loading-questionair-data">
+       <img src="//assets.dice.com/techpro/img/loading32px.gif"/>
+      </div>
+      <input id="apply-job-questionaire-id" type="hidden" value="0"/>
+      <input id="apply-job-poster-id" type="hidden" value="1674296"/>
+      <input id="apply-job-company-id" type="hidden" value="4561"/>
+      <input id="apply-job-joblocation" type="hidden" value="Denver, CO"/>
+      <input id="apply-job-id" type="hidden" value="e01ec736587ca80ac780e763b306fc4d"/>
+      <input id="apply-job-title" type="hidden" value="ILM Systems Administrator"/>
+      <input id="apply-job-ofccp" type="hidden" value="false"/>
+      <input id="apply-job-showOfccpQuestions" type="hidden" value="false"/>
+      <input id="apply-job-includeVeteransQuestions" type="hidden" value="false"/>
+      <div class="alert alert-danger" id="apply-job-error-alert" style="display: none;">
+      </div>
+      <input id="apply-job-error-section" type="hidden" value="false"/>
+      <form class="form-horizontal" id="apply-job-form">
+      </form>
+      <div class="privacy-policy col-offset-md-6" style="margin-top: 15px;">
+       <a href="http://www.dice.com/about/privacy" style="text-decoration: none;" target="_blank">
+        * Privacy Policy
+       </a>
+      </div>
+     </div>
+     <div class="modal-footer">
+      <div style="padding-left: 0px;">
+       <button class="btn btn-primary dice-btn btn-lg" id="submit-job-btn1" style="display: none;" type="button">
+        Apply Now
+        <span class="icon-loading hidden">
+        </span>
+       </button>
+       <button class="btn btn-primary dice-btn btn-lg" id="continue-job-btn" style="display: none;" type="button">
+        Continue
+       </button>
+       <button class="btn btn-primary dice-btn-secondary btn-lg" id="mbackbtn" type="button">
+        Back
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div aria-hidden="true" aria-labelledby="questionair-offcc-label2" class="modal fade apply-job" id="questionair-offcc-modal2" role="dialog">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <meta content="apply_job_questionair_offcc_modal2" name="ompagename"/>
+      <meta content="tech pro" name="channel"/>
+      <div class="row">
+       <div class="col-sm-9 col-xs-7">
+        <h4 class="modal-title">
+         Easy Apply
+        </h4>
+       </div>
+       <div class="col-sm-2 col-xs-1" style="padding-left:0px;">
+        <div class="stepsect">
+         Step 3 of
+         <span class="steps">
+          3
+         </span>
+        </div>
+       </div>
+       <div class="col-sm-1">
+        <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+         ×
+        </button>
+       </div>
+      </div>
+     </div>
+     <div class="modal-body">
+      <div class="row">
+       <label class="col-sm-8 control-label">
+        Questionnaire
+       </label>
+       <div class="col-sm-4 required-all">
+        *All fields are required
+       </div>
+      </div>
+      <div class="alert alert-danger" id="apply-job-error-alert2" style="display: none;">
+      </div>
+      <input id="apply-job-error-section2" type="hidden" value="false"/>
+      <form class="form-horizontal" id="apply-job-form2">
+      </form>
+      <div class="privacy-policy col-offset-md-6" style="margin-top: 15px;">
+       <a href="http://www.dice.com/about/privacy" style="text-decoration: none;" target="_blank">
+        * Privacy Policy
+       </a>
+      </div>
+     </div>
+     <div class="modal-footer">
+      <div style="padding-left: 0px;">
+       <button class="btn btn-primary dice-btn btn-lg" id="submit-job-btn2" type="button">
+        Apply Now
+        <span class="icon-loading hidden">
+        </span>
+       </button>
+       <button class="btn btn-primary dice-btn-secondary btn-lg" id="lbackbtn" type="button">
+        Back
+       </button>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div aria-hidden="true" aria-labelledby="questionair_offcc_success" class="modal fade apply-job" data-backdrop="static" data-keyboard="false" id="questionair_offcc_success-modal" role="dialog">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <meta content="apply_job_questionair_offcc_success_modal" name="ompagename"/>
+      <meta content="tech pro" name="channel"/>
+      <button aria-hidden="true" class="close" data-dismiss="modal" id="successUpperCloseBtn" type="button">
+       ×
+      </button>
+      <h4 class="modal-title">
+       Application Submitted
+      </h4>
+     </div>
+     <div class="modal-body" style="padding: 10px 45px 10px;">
+      <div class="row success-message-row" style="margin-bottom : 0px;">
+       <div class="col-sm-11" id="thkMessage">
+        <p>
+         Thanks for applying for the position of
+         <strong>
+          ILM Systems Administrator
+         </strong>
+         with
+         <strong>
+          The Judge Group
+         </strong>
+         through Dice.
+        </p>
+       </div>
+      </div>
+      <div class="checkOutSJobs">
+       <div id="similarJobsShow">
+        <div class="row">
+         <div class="col-sm-12 col-xs-12 similarDivHeading" style="display:none;">
+          Check Out Similar Opportunities
+         </div>
+        </div>
+       </div>
+       <div class="row form-actions success-form-actions">
+        <div class="col-sm-12 viewMorePosLink" style="margin-top: 5px;">
+         <a href="/jobs" role="button" target="_.comtop">
+          <button class="btn btn-primary dice-btn-secondary" id="closebtn" style="align-content: center;" type="button">
+           View More Positions
+          </button>
+         </a>
+        </div>
+       </div>
+      </div>
+      <!-- 				<div class="row more-jobs-actions" id ="jobsearchsuccesspage" style="display: none;">
+					<div class="col-sm-12">
+						<div class="row">
+							<div class="col-sm-12">
+								<h1 class="actions-title" style="text-transform: none;">Find Another Job</h1>
+							</div>
+						</div>
+						<div class="row search-jobs-form-row">
+							<form class="form-inline" action="/jobs" method="GET" target="_parent">
+								<div class="col-sm-5">
+									<div class="form-group has-icon has-dropdown has-dropdown-static" style="display: block;">
+										<span class="glyphicon glyphicon-search form-control-icon form-control-icon-succjobsearch"></span>
+										<input class="form-control form-control-succjobsearch" style="width: 100%" name="q" placeholder="Keyword" value ="">
+									</div>
+								</div>
+								<div class="col-sm-5">
+									<div class="form-group has-icon has-dropdown has-dropdown-static" style="display: block;">
+										<span class="glyphicon glyphicon-map-marker form-control-icon form-control-icon-succjobsearch"></span>
+										<input class="form-control form-control-succjobsearch" name="l" placeholder="Location" style="width: 100%" value ="Denver, CO" >
+									</div>
+								</div>
+								<div class="col-sm-2">
+									<button type="submit" class="btn btn-primary" style="background:#069;">Search <i class="icon-loading hidden"></i></button>
+								</div>
+							</form>
+						</div>
+					</div>
+					<div class="row form-actions success-form-actions" id ="viewMorePosLink1" style="display: none;">
+						<div class="col-sm-12">
+							<div class="row">
+								
+									
+									
+										<a href="/jobs" target="_top" role="button">
+											<button type="button" class="btn btn-primary dice-btn-secondary" id="closebtn" style="margin-top: 10px; margin-left: 30px;">View More Positions</button>
+										</a>
+									
+								
+							</div>
+						</div>
+					</div>
+				</div> -->
+     </div>
+     <div class="modal-footer">
+      <div style="display:none;">
+       <button class="btn btn-primary dice-btn-secondary btn-lg" data-dismiss="modal" id="successLowerCloseBtn" type="button">
+        Close
+       </button>
+      </div>
+      <div class="row rowBrushUpSkills brushUpSkillsClass" id="brushUpSkills">
+       <div class="col-sm-12 col-md-12" id="dynamicCarousel">
+       </div>
+       <!-- modal-footer -->
+      </div>
+      <div class="row" id="assessmentDivId" style="display: none;">
+       <div class="col-sm-12 col-md-12">
+        <h4 class="brush">
+         Assessments
+        </h4>
+        <p style="color: #999;">
+         Verify your skills relating to this job and stand out from the rest of the applicants.
+        </p>
+       </div>
+       <div class="col-sm-12 col-md-12" id="assessmentHtml">
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js">
+  </script>
+  <!-- BEGIN FOOTER -->
+  <style type="text/css">
+   .has-feedback .input-lg ~ .form-control-feedback {
+	height: 45px;
+	line-height: 45px;
+}
+
+.has-error .form-control-feedback {
+	color: #FFF;
+	background-color: #C00;
+}
+
+.glypSpan{
+    border-top-right-radius: 0.5em;
+    border-bottom-right-radius: 0.5em;
+}
+
+.errMsgColor{
+    color: #c00;
+}
+.glyphicon-question-sign{
+	border:4px solid green;
+}
+  </style>
+  <footer class="dice-footer">
+   <div class="container">
+    <div class="row">
+     <input id="localDomain" type="hidden" value="www.dice.com"/>
+     <div class="logo-column">
+      <a class="logo" href="http://www.dice.com">
+       Dice
+      </a>
+     </div>
+     <div class="links column">
+      <h5 data-target="#learn-about-dice" data-toggle="collapse">
+       Learn About Dice
+       <span class="icon-arrow-circle-29 toggle-icon">
+       </span>
+      </h5>
+      <div class="collapse in" id="learn-about-dice">
+       <div class="padding-container">
+        <a href="http://insights.dice.com/about-dice/" target="_BLANK">
+         About Us
+        </a>
+        <a href="http://media.dice.com/" target="_BLANK">
+         Company Profile
+        </a>
+        <!-- <a href="https://employer.dice.com/daf/newContactDice.html" target="_BLANK" >Contact Sales</a> -->
+        <!-- <a href="http://media.dice.com/diceinthenews/" target="_BLANK">Dice in the News</a> -->
+        <a href="http://techhub.dice.com/Dice_General-ContactUs_D.html" target="_BLANK">
+         Contact Sales
+        </a>
+        <a href="http://www.dice.com/social" target="_BLANK">
+         Social Recruiting
+        </a>
+        <a href="http://www.dhigroupinc.com/careers/default.aspx" target="_BLANK">
+         Work at Dice
+        </a>
+        <a href="http://www.dice.com/about/privacy" target="_BLANK">
+         Privacy Policy
+        </a>
+        <a href="http://www.dice.com/about/contactus" target="_BLANK">
+         Contact Us
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="links column">
+      <h5 data-target="#dice-services" data-toggle="collapse">
+       Dice Services
+       <span class="icon-arrow-circle-29 toggle-icon">
+       </span>
+      </h5>
+      <div class="collapse in" id="dice-services">
+       <div class="padding-container">
+        <a href="http://media.dice.com/category/the-dice-report/" target="_BLANK">
+         The Dice Report
+        </a>
+        <a href="/openweb" target="_BLANK">
+         Open Web
+        </a>
+        <a href="/jobs/browse">
+         Browse Jobs
+        </a>
+        <a href="/skills">
+         Skills Center
+        </a>
+       </div>
+      </div>
+     </div>
+     <div class="links column">
+      <h5 data-target="#dice-sites" data-toggle="collapse">
+       Dice Sites
+       <span class="icon-arrow-circle-29 toggle-icon">
+       </span>
+      </h5>
+      <div class="collapse in" id="dice-sites">
+       <div class="padding-container">
+        <!-- <a href="http://slashdot.org/" target="_BLANK">Slashdot</a>
+				<a href="http://sourceforge.net/" target="_BLANK">SourceForge</a> -->
+        <a href="http://be.dice.com/">
+         Dice BE
+        </a>
+        <a href="http://de.dice.com/">
+         Dice DE
+        </a>
+        <a href="http://nl.dice.com/">
+         Dice NL
+        </a>
+        <a href="http://sap.dice.com/">
+         Dice SAP
+        </a>
+        <div class="diceUkLink">
+         <a class="diceUkAnchor" href="http://uk.dice.com/">
+          Dice
+          <span class="countryCode">
+           UK
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="social">
+      <h5 data-target="#dice-everywhere" data-toggle="collapse">
+       Dice Everywhere
+       <span class="icon-arrow-circle-29 toggle-icon">
+       </span>
+      </h5>
+      <div class="collapse in" id="dice-everywhere">
+       <div class="padding-container">
+        <a class="social-icon twitter" href="https://twitter.com/Dicedotcom">
+         Twitter
+        </a>
+        <a class="social-icon facebook" href="https://www.facebook.com/dice">
+         Facebook
+        </a>
+        <a class="social-icon google-plus" href="https://plus.google.com/+Dice/posts">
+         Google Plus
+        </a>
+        <a class="app-store-link app-store" href="http://c00.adobe.com/d53bf41a-0d61-47b4-b7f1-6df9b46831cf/DI_OS_UN_MA_UP/i/794201100">
+         App Store
+        </a>
+        <a class="app-store-link google-play" href="http://c00.adobe.com/d53bf41a-0d61-47b4-b7f1-6df9b46831cf/DI_OS_UN_MA_UP/g/com.dice.app.jobs">
+         Google Play
+        </a>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div class="copyright">
+    <div class="container">
+     <p>
+      Copyright ©1990 - 2017 Dice. All rights reserved. Use of this site is subject to certain
+      <a href="http://www.dice.com/about/terms_and_conditions">
+       Terms and Conditions
+      </a>
+      .
+     </p>
+     <p>
+      <span class="icon-dhi-logo dhi-logo">
+      </span>
+      <span class="dhi-footer-text">
+       Dice is a
+       <a href="http://www.dhigroupinc.com">
+        DHI Service
+       </a>
+      </span>
+     </p>
+    </div>
+   </div>
+   <script src="//assets.dice.com/techpro/js/global/feedbackWidget.js">
+   </script>
+   <div diceapi="http://www.dice.com" id="diceFeedback" mailcc="" mailto="techsupport@dice.com">
+   </div>
+  </footer>
+  <!-- END FOOTER -->
+  <!-- sign In applyModal Modal -->
+  <div aria-hidden="true" aria-labelledby="myModalLabel" class="modal fade" id="applyModal" role="dialog" tabindex="-1">
+   <input id="hideButtonStatus" type="hidden"/>
+   <div class="modal-dialog modalWidth">
+    <div class="modal-content">
+     <div class="modal-header">
+      <meta content="quick_login_register_modal" name="ompagename"/>
+      <meta content="tech pro" name="channel"/>
+      <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+      <h4 class="modal-title" style="font-size: 24px; font: 24px/1.5 'Helvetica Neue' ">
+       Sign In To Use This Feature
+      </h4>
+     </div>
+     <div class="modal-body pad-input" style="background: #f5f5f5;;">
+      <form class="form-horizontal" id="email-job-form">
+       <div class="alert alert-danger" id="error-alert" style="display: none;">
+       </div>
+       <div class="form-group has-feedback">
+        <div class="col-md-10" id="emailDiv">
+         <label data-float-label="" for="email">
+          Email
+         </label>
+         <input class="form-control input-lg" id="mEmail" maxlength="70" name="email" placeholder="Email" type="text"/>
+         <span class="form-control-feedback glyphicon glypSpan" id="emailSpan">
+         </span>
+        </div>
+        <div class="col-md-4 errMsgColor" id="emailFeedbackMessage" style="display: none">
+         <span>
+          Your Email does not appear to be valid.
+         </span>
+        </div>
+       </div>
+       <div class="form-group has-feedback">
+        <div class="col-md-10" id="passDiv">
+         <label data-float-label="" for="password">
+          Password
+         </label>
+         <input class="form-control input-lg" id="mPassword" maxlength="256" name="toAddress" placeholder="Password" type="password"/>
+         <span class="form-control-feedback glyphicon glypSpan" id="passSpan">
+         </span>
+        </div>
+        <div class="col-md-4 errMsgColor" id="passFeedbackMessage" style="display: none">
+         <span>
+          8 character minimum with at least 1 number and 1 letter.
+         </span>
+        </div>
+       </div>
+       <div class="form-group">
+        <div class="col-md-5 col-sm-6 col-xs-12 hidden-lg hidden-md" style="float: right;">
+         <p class="pull-right">
+          <a href="http://www.dice.com/profman/resetPassword.jsp" style="color:#069;" target="_blank">
+           Forgot Password?
+          </a>
+         </p>
+        </div>
+        <div class="col-md-3 col-sm-12 col-xs-12">
+         <button class="btn btn-primary btn-lg" id="signBtnId" onclick="loginSubmit();" type="button">
+          Sign In
+          <span class="icon-loading hidden">
+          </span>
+         </button>
+        </div>
+        <div class="col-md-2 col-sm-2 col-xs-5 hidden-xs hidden-sm" id="skipBtn">
+        </div>
+        <div class="col-md-5 col-sm-6 col-xs-12 hidden-xs hidden-sm">
+         <p class="pull-right">
+          <a href="http://www.dice.com/profman/resetPassword.jsp" style="color:#069;" target="_blank">
+           Forgot Password?
+          </a>
+         </p>
+        </div>
+       </div>
+      </form>
+      <div class="row">
+       <div id="skipBtnSeperator">
+       </div>
+       <div class="col-md-2 col-sm-12 col-xs-12 visible-xs visible-sm" id="skipBtnMobile" style="margin-top:10px; font-size: 18px; font-weight: 300; text-align: center;">
+       </div>
+      </div>
+     </div>
+     <div class="modal-footer footr" style="margin-top: 0;">
+      <!-- 			<div class="row">
+					<div class="col-sm-4"><p class=""><a href="http://www.dice.com/profman/resetPassword.jsp" target="_blank">Forgot Password?</a></p></div>
+				</div> -->
+      <div class="row">
+       <div class="col-md-7" style="text-align: left;">
+        <span style="line-height: 38px;">
+         Don't have an account?
+         <a href="/register" id="register" onclick="return redirectURLCookie();" style="color:#069;" target="_parent">
+          Register
+         </a>
+        </span>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js">
+  </script>
+  <script src="//assets.dice.com/techpro/js/global/bootstrap-notify.js">
+  </script>
+  <script src="//assets.dice.com/techpro/js/global/jquery.smartbanner.js">
+  </script>
+  <script type="text/javascript">
+   $(function() { $.smartbanner() } )
+  </script>
+  <script>
+   _satellite.pageBottom()
+  </script>
+  <input id="careerPathFlagN" type="hidden" value="false"/>
+  <script>
+   $.get("https://www.dice.com/refresh/seeker");
+  </script>
+  <script>
+   $.get("https://www.dice.com/refresh/DGL");
+  </script>
+  <!-- <script type="text/javascript" src="//maps.googleapis.com/maps/api/js?sensor=true&libraries=places&v=3.22"></script> -->
+  <script src="//maps.googleapis.com/maps/api/js?libraries=places&amp;v=3.23&amp;key=AIzaSyBIdPte3BjiTJYhsuLfzBJgUAHGQx_l07U" type="text/javascript">
+  </script>
+  <script src="//assets.dice.com/techpro/js/global/login-dialog.js">
+  </script>
+  <script src="https://apis.google.com/js/api:client.js">
+  </script>
+  <script type="text/javascript">
+   $(document).ready(footercollapse);
+$(window).resize(footercollapse);
+
+function footercollapse() {
+	//deleteCookie('DJV_UNREGISTERED', '/');
+	if ((window.innerWidth || document.body.offsetWidth) < 992) {
+		$('#dice-sites').removeClass('in').addClass('collapse');
+		$('#dice-services').removeClass('in').addClass('collapse');
+		$('#learn-about-dice').removeClass('in').addClass('collapse');
+	} else {			
+		$('#dice-sites').addClass('in').removeClass('collapse').removeAttr('style');
+		$('#dice-services').addClass('in').removeClass('collapse').removeAttr('style');
+		$('#learn-about-dice').addClass('in').removeClass('collapse').removeAttr('style');
+	}
+}
+  </script>
+  <script type="text/javascript">
+   $('.nbt').unbind('click');
+	$('.nbt').click(function(){
+		var navbars = $('.navbar-collapse');
+		var navtoggle = $(this).attr('data-target'); 
+		
+		for(var i=0; i< navbars.length;i++){
+			if(navtoggle != '#'+ $(navbars[i]).attr('id')
+				&& $(navbars[i]).hasClass('slideUp')){
+				$(navbars[i]).slideUp();
+				$(navbars[i]).removeClass('slideUp');
+			}
+		}
+		
+		if($(navtoggle).length > 0){
+			if($(navtoggle).hasClass('hidden-xs')){
+				$(navtoggle).removeClass('hidden-xs hidden-sm');
+				$(navtoggle).css('display','none');
+			}
+			
+			if($(navtoggle).hasClass('slideUp')){
+				$(navtoggle).slideUp();
+				$(navtoggle).removeClass('slideUp');
+			}
+			else{
+				$(navtoggle).slideDown();
+				$(navtoggle).addClass('slideUp');
+			}		
+		}
+		else{
+			window.location.href = '/jobs';
+		}
+	});
+	
+	$('.smartMenu').unbind('click');
+	$('.smartMenu').click(function(){
+		var navtoggle = $(this).attr('data-target'); 
+		var peopleId = $('#pid').val(), isNotificarion = false;
+		var searchableProfile = getCookie('searchableProfileId');		
+		if (this.id === 'smart-notification-toggle-link' || this.id === 'msmart-notification-toggle-link'){
+			if (peopleId !== undefined || peopleId !== "" || peopleId !== null) {
+				var notificationCookie = getCookie('notificationViewed'+peopleId); 
+				if (notificationCookie === null || notificationCookie === "" || notificationCookie === "null" || notificationCookie === undefined) {
+					generateCookie('notificationViewed' + peopleId , false, 24 * 60 * 60 *1, '/');
+				}
+			}
+			hideNotification();
+			setNotification(this);
+			isNotificarion = true;
+		}
+		if (!isNotificarion) {
+			navToggleWin(this);
+		}
+	});
+	
+	function navToggleWin(obj) {
+		var navtoggle = $(obj).attr('data-target');
+		$(obj).find('.icon-arrow-67').hide();
+		$(obj).find('.icon-arrow-68').hide();
+		if($(navtoggle).length > 0){
+			if($(navtoggle).hasClass('slideUp')){
+				$(obj).find('.icon-arrow-67').show();
+				$(navtoggle).slideUp(200);
+				$(navtoggle).removeClass('slideUp');
+			}
+			else{
+				$(obj).find('.icon-arrow-68').show();
+				$(navtoggle).slideDown(200);
+				$(navtoggle).addClass('slideUp');
+			}
+		} 
+	}
+	
+	$(document).on('click touchstart', 'html', function(e) {
+		var target = (e && e.target) || (event && event.srcElement);
+		if(isPopupClose(target)){
+			$('.smartMenu').find('.icon-arrow-68').hide();
+			$('.smartMenu').find('.icon-arrow-67').show();
+			$('#smart-toggle').slideUp(200);
+			$('#smart-toggle').removeClass('slideUp');
+			$('#smart-notification').slideUp(200);
+			$('#smart-notification').removeClass('slideUp');
+			$('#msmart-notification').slideUp(200);
+			$('#msmart-notification').removeClass('slideUp');
+			$('#smart-toggle1').slideUp(200);
+			$('#smart-toggle1').removeClass('slideUp');
+		}
+	});
+	if($("#careerPathFlagN").val() == "true") {
+		$('.careerPath_notification').on("click touchstart",careerpathnotification);	
+	}
+	function careerpathnotification(){
+		setCookie('careerPathCookie'+ $('#pid').val(), 1 ,  30 * 24 * 60 * 60 *1, '/');
+		var newWin = window.open('', '_blank');
+		newWin.location = 'http://www.dice.com/mobile';
+		setNotification();
+	}
+	function isPopupClose(currentTarget) {
+		var isClose = true, current_element = currentTarget,
+			smartToggle = document.getElementById('smart-toggle'),
+			smartToggleLink = document.getElementById('smart-toggle-link'),
+			smartToggleCareer = document.getElementById('smart-toggle-Career'),
+			smartNotificationToggleLink = document.getElementById('smart-notification-toggle-link'),
+			msmartNotificationToggleLink = document.getElementById('msmart-notification-toggle-link');
+		
+		while(current_element && current_element != document.body) {
+			if (current_element === smartToggle 
+			        || current_element === smartToggleLink
+			        || current_element === smartToggleCareer
+			        || current_element === smartNotificationToggleLink
+			        || current_element === msmartNotificationToggleLink) {
+				isClose = false;
+				break;
+			}
+			current_element = current_element.parentNode;
+		}
+		return isClose;
+	}
+	
+	function updateSession(updateVal) {
+		/* var regExEmail = /^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$/;
+		var diceCustomerName = $('#dice-customer-name').text();
+		if(regExEmail.test(diceCustomerName) == true || diceCustomerName == "") {
+			$.get("https://www.dice.com/refresh/session/"+updateVal+"/");
+			$('#dice-customer-name').html(updateVal);
+		} */
+		if (updateVal.length >= 1) {
+			$.get("https://www.dice.com/refresh/session/"+updateVal+"/");
+			$('#dice-customer-name').html(updateVal)
+		}
+	}
+
+	hideNotification();
+	var peopleId = $('#pid').val();
+	var notificationViewed = getCookie('notificationViewed' + peopleId);
+	function hideNotification() {
+		notificationViewed = getCookie('notificationViewed' + peopleId);
+		if (notificationViewed && notificationViewed != "false") {
+			$('.notification-bubble').hide();
+		}
+	}
+	setNotification(); 
+	function setNotification(navtoggle) {
+        var nc = 0;
+        var careerPathFlagN = $("#careerPathFlagN").val();
+        var searchableProfileId = getCookie('searchableProfileId');
+		var profilecount = getCookie('profileCount');
+		$('.notification-bubble').hide();
+		//if (searchableProfileId != null && searchableProfileId && nc === 0) { // searchable profile
+		if (nc === 0 && profilecount != null && profilecount != 0) {
+			if (searchableProfileId != null && searchableProfileId) {
+				$.ajax({
+					url: '/dashboard/notification/updateNotificationCount?id='+ searchableProfileId,
+					async: false
+				}).done(function(data) {
+					nc = isNaN(data) ? 0 : parseInt(data);}).fail(function(xhr)  {
+					nc  = 1;
+				});
+			} else {
+				nc = 0;
+			}
+
+		}
+		var marketValueCookie = null;
+		var careerPathCookie = null;
+		var peopleId = getCookie('peopleId');
+		try {
+			marketValueCookie = getCookie('marketValueCookie'+peopleId);
+			if(careerPathFlagN == "true") {
+				careerPathCookie = getCookie('careerPathCookie'+peopleId);	
+			}
+			if(marketValueCookie == null){
+				// incase cookie is not present assume that we have to show the notification
+				marketValueCookie = "true";
+			}
+		} catch (ignore) {console.log(ignore);}
+		if (profilecount != null && profilecount != 0 && searchableProfileId != null && searchableProfileId) { // searchable profile
+			/* $.get('/dashboard/notification/updateNotificationCount?id='
+				+ searchableProfileId, function(data, status) { */
+				var bubbleCount = 0;
+				if (marketValueCookie === "true") {
+					bubbleCount = nc + 1;
+				} else {
+					$('.marketValue_notification').hide();
+					bubbleCount = nc;
+				}
+				if (careerPathCookie === "0" && careerPathFlagN == "true") {
+					bubbleCount += 1;
+				} else {
+					$('.careerPath_notification').hide();
+					bubbleCount = bubbleCount;
+				}
+				hideNotiMessages(nc, bubbleCount);
+				if (nc != 0 && (notificationViewed === "false" || notificationViewed === null)) { //has some notification
+					$('.notification-bubble').show();
+					$('.notifi_skillopen').show();
+				} else if (nc != 0) {
+					$('.notifi_skillopen').show();
+					$('.notification-bubble').hide();
+				} else if (bubbleCount >= 1) {
+					$('.notification-bubble').show();
+				} else { //no notification 
+					$('.notification-bubble').hide();
+					$('.notifi_nonotification').show();
+				}
+				if (searchableProfileId != null && searchableProfileId) {
+					//$('.notifi_nonotification').show();
+					bubbleCount = bubbleCount;
+					updateNotificationCount(bubbleCount);
+				} else {
+					bubbleCount += 1;
+					updateNotificationCount(bubbleCount);
+					$('.notifi_makeprofile').show();
+				}
+				$('.smart-notification').show();
+				if (navtoggle) {
+					navToggleWin(navtoggle);
+				}
+			//});
+		} else { //non-searchable or no profile
+			var countVal = 1;
+			if (marketValueCookie === "true" && (profilecount != null && profilecount != 0)) {
+				countVal = parseInt(countVal) + 1;
+			} else {
+				$('.marketValue_notification').hide();
+			}
+			if (careerPathCookie === "0" && (profilecount != null && profilecount != 0)) {
+				countVal = parseInt(countVal) + 1;
+			} else {
+				$('.careerPath_notification').hide();
+			}
+			$('.notification-bubble').show();
+			hideNotiMessages(0, countVal);
+			if (profilecount != null && profilecount != 0) { // profile exists but not searchable 
+				if (searchableProfileId != null && searchableProfileId) {
+					$('.notifi_nonotification').show();
+				} else {
+					$('.notifi_makeprofile').show();
+				}
+			} else { //profile not exists
+				$('.notifi_createprofile').show();
+			}
+			$('.smart-notification').show();
+			if (navtoggle) {
+				navToggleWin(navtoggle);
+			}
+		}	
+	}
+	
+	function hideNotiMessages(count, bubbleCount) {
+		$('.notificationCount').html(count);
+		$('.bubbleCount').html(bubbleCount);
+		$('.notifi_skillopen').hide();
+		$('.notifi_createprofile').hide();
+		$('.notifi_makeprofile').hide();
+		$('.notifi_nonotification').hide();
+	}
+	function updateNotificationCount(bubbleCount) {
+		$('.bubbleCount').html(bubbleCount);
+	}
+  </script>
+  <script src="//assets.dice.com/techpro/js/jobDetails/djvjobalert.js">
+  </script>
+  <script src="//assets.dice.com/techpro/js/global/bootstrap-typeahead.min.js">
+  </script>
+  <script src="//assets.dice.com/techpro/js/global/viewjob_ads.js">
+  </script>
+  <script src="//assets.dice.com/techpro/js/jobDetails/viewjob.js">
+  </script>
+  <script src="//assets.dice.com/techpro/js/jobDetails/applyjob.js">
+  </script>
+  <script src="//assets.dice.com/techpro/js/vendor/stackBlur.js">
+  </script>
+  <script>
+   $(function () {
+        $('.foggy-image').each(function (i, img) {
+            var canvas;
+
+            function hasCssFilterSupport() {
+                var el = document.createElement('div');
+                el.style.cssText = '-webkit-filter:blur(2px);filter:blur(2px);';
+                return !!el.style.length && ((document.documentMode === undefined || document.documentMode > 9));
+            }
+
+            if (!hasCssFilterSupport()) {
+                canvas = document.createElement('canvas');
+                canvas.id = 'stackBlurCanvas' + img.src + i;
+                canvas.className = 'stack-blur-canvas';
+                canvas.style.position = 'absolute';
+                canvas.style.left = '0';
+                canvas.style.right = '0';
+                canvas.style.top = '0';
+                canvas.style.bottom = '0';
+                canvas.style.minWidth = '100%';
+                canvas.style.minHeight = '100%';
+                canvas.style.maxWidth = '100%';
+                canvas.style.maxHeight = '100%';
+                canvas.style.opacity = '.8';
+                img.id = img.id || ('stackBlurImage' + img.src + i);
+                $(img).after(canvas);
+                stackBlurImage(img.id, canvas.id, 50, false);
+                img.style.opacity = '0';
+            }
+        });
+    });
+  </script>
+  <script type="text/javascript">
+   /*$(document).ready(function(){
+    $("#welcome-modal").modal();
+  });
+  var date = new Date();
+  date.setTime(date.getTime()+(72*60*60*1000));
+  var expdate = "; expires="+date.toGMTString();
+  document.cookie = "wc_md=" + "1" + expdate + "; path=/";*/
+  </script>
+  <!-- WELCOME MODAL MARKUP -->
+  <div class="modal fade" id="welcome-modal">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+     </div>
+     <div class="modal-body">
+      <p>
+       It's a little rough around the edges. If you find things we could do better, let us know at
+       <a href="mailto:newdicesupport@dice.com">
+        newdicesupport@dice.com
+       </a>
+       or give us a call at 888-321-DICE (3423)
+      </p>
+      <!--<button class="btn btn-default">Return to old Dice</button>-->
+      <button aria-hidden="true" class="btn btn-primary pull-right" data-dismiss="modal">
+       Continue with the new site
+      </button>
+      <div class="clearfix">
+      </div>
+     </div>
+    </div>
+    <!--  END MODAL CONTENT  -->
+   </div>
+   <!--  END MODAL DIALOG  -->
+  </div>
+  <!--  END THIRD PARTY MODAL  -->
+  <!-- END WELCOME MODAL MARKUP -->
+  <link href="//assets.dice.com/techpro/css/job-footer.css" rel="stylesheet"/>
+  <!-- job footer section end-->
+ </body>
+</html>
