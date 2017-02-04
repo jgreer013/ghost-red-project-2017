@@ -8,7 +8,10 @@ import tldextract
  
 def getWebpageText(url):
     tld = tldextract.extract(url).registered_domain
-    html = urllib.urlopen(url)
+    try:
+        html = urllib.urlopen(url)
+    except:
+        return []
     soup = BeautifulSoup(html, 'lxml')
     #data = soup.findAll(text=True)
 
