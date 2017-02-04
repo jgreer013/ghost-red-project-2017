@@ -1,15 +1,13 @@
 {% extends 'base.html' %}
 {% block content %}
   <div class="gallery">
-    {% for company in company_matches %}
-        <div class="company">
-          <h3>{{ company.name }}</h3>
-        </div>
+    {% for applicant in matches %}
+        <a target="iframe" href="/stats?culture={{ applicant[2] }}&position={{
+          applicant[3] }}"><div class="applicant">
+          <h3>{{ applicant[0] }}</h3>
+          <p>{{ applicant[1] }}</p>
+        </div></a>
     {% endfor %}
   </div>
-  <button onClick="download()">Download List</button>
-  <div>
-    Company Culture Fit: <progressbar max="100" id="culture" />
-    Position Fit: <progressbar max="100" id="position" />
-  </div>
+  <iframe name="iframe" id="iframe"></iframe>
 {% endblock %}

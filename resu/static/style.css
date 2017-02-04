@@ -1,0 +1,31 @@
+body {
+    background-color: #17A43F;
+}
+header {
+    background-color:#1A8106;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-size:24px;
+}
+p {
+    font-family: verdana;
+    font-size: 14px;
+}
+/*ul.navbar li {
+//  background: white;
+//  margin: 0.5em 0;
+//  padding: 0.3em;
+//  border-right: 1em solid black }
+//ul.navbar a {
+//  text-decoration: none }
+//a:link {
+//  color: blue }
+//a:visited {
+//  color: purple }
+//address {
+//  margin-top: 1em;
+//  padding-top: 1em;
+//  border-top: thin dotted }
+*/
