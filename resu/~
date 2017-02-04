@@ -1,5 +1,0 @@
-{% extends 'base.html' %}
-  <div>
-    Company Culture Fit: <progressbar max="100" id="culture" />
-    Position Fit: <progressbar max="100" id="position" />
-  </div>

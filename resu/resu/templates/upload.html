@@ -1,6 +1,7 @@
 {% extends 'base.html' %}
 {% block content %}
 <form action="/submit/" method="POST" enctype="multipart/form-data">
+  {% csrf_token %}
   <p>Name: <input type="text" name="name" /></p>
   <p>Github Username:<input type="text" name="github" /></p>
   <p>Resume: <input type="file" name="resume" /></p>
