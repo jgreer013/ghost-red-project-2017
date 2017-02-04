@@ -11,12 +11,23 @@ def index(request):
     resume = request.FILES['resume']
     github = request.POST['github']
     [company_matches, position_matches] = applicant(resume,github)
+    return render(
+      request,
+      'options.html',
+      context={"company_matches":company_matches,"position_matches":position_matches}
+    )
   if request.POST.get("req","") == "people":
     files = request.FILES['file']
     employees = company(files,culture,job)
-  return render(
-    request,
-    'submit.html',
-    context={}
+    return render(
+      request,
+      'results.html',
+      context={"matches": employees}
+    )
+  return render (
+   request,
+   'index.html',
+   context={'subtitle':'Home'}
   )
+
 
