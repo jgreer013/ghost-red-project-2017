@@ -2,18 +2,18 @@
 {% block content %}
   <div class="gallery">
     {% for company in company_matches %}
-      <a href="{{ company[1] }}">
+      <a href="{{ company.link }}">
         <div class="company">
-          <h3>{{ company[0] }}</h3>
-        </div></a>
+          <h3>{{ company.name }}</h3>
+        </div>
     {% endfor %}
   </div>
   <div class="gallery">
     {% for position in position_matches %}
-     <a href="{{ position[1] }}"><div class="position"}>
-        <h3>{{ position[0] }}</h3>
-        <p>{{ position[2] }}</p>
-      </div></a>
+      <div class="position"}>
+        <h3>{{ position.name }}</h3>
+        <p>{{  position.location }}</p>
+      </div>
     {% endfor %}
   </div>
 {% endblock %}

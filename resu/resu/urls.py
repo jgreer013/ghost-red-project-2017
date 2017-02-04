@@ -21,6 +21,7 @@ urlpatterns = [
     url(r'^options/', include('options.urls')),
     url(r'^people/', include('people.urls')),
     url(r'^results/', include('results.urls')),
+    url(r'^submit/', include('submit.urls')),
     url(r'^upload/', include('upload.urls')),
     url(r'^admin/', admin.site.urls),
     url(r'^$', views.index, name='index')
