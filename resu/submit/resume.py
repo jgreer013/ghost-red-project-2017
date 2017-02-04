@@ -9,7 +9,7 @@ def extractResumeText(filename):
   nonemail = re.sub(r"([A-Za-z0-9_\-+]+@[A-Za-z0-9_\-+.]+\.[A-Za-z]+)+", "", text)
   urls  = re.search(r"([A-Za-z0-9\-.]+\.[A-Za-z]+)+", nonemail)
   retdict = {"email":None,"urls":None}
-  retdict["text"]=re.sub(r"[^A-Za-z0-9\s\-]","",text).split()
+  retdict["text"]=re.sub(r"[^A-Za-z0-9\s\-]","",text)
   if email is not None:
     retdict["email"]=email.groups()
   if urls is not None:

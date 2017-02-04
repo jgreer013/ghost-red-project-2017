@@ -15,6 +15,7 @@ Including another URLconf
 """
 from django.conf.urls import url,include
 from django.contrib import admin
+from . import views
 
 urlpatterns = [
     url(r'^options/', include('options.urls')),
@@ -22,4 +23,5 @@ urlpatterns = [
     url(r'^results/', include('results.urls')),
     url(r'^upload/', include('upload.urls')),
     url(r'^admin/', admin.site.urls),
+    url(r'^$', views.index, name='index')
 ]
