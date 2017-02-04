@@ -14,5 +14,4 @@ def matchInfo(request):
     request,
     'matchinfo.html',
     context={"culture":request.GET.get("culture")*100,
-      "position": request.GET.get("position")*100)
-  )
+      "position": request.GET.get("position")*100})

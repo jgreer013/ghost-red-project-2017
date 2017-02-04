@@ -7,6 +7,6 @@ def index(request):
   return render(
     request,
     'index.html',
-    context={subtitle="Home"}
+    context={"subtitle":"Home"}
   )
 
