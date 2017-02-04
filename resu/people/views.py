@@ -5,6 +5,6 @@ from django.http import HttpResponse
 def index(request):
   return render(
     request,
-    'people/index.html',
+    'people.html',
     context={}
 )

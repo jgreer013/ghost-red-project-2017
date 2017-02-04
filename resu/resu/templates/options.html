@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block content %}
+  <div class="gallery">
+    {% for company in company_matches %}
+      <a href="{{ company.link }}">
+        <div class="company">
+          <h3>{{ company.name }}</h3>
+        </div>
+    {% endfor %}
+  </div>
+  <div class="gallery">
+    {% for position in position_matches %}
+      <div class="position"}>
+        <h3>{{ position.name }}</h3>
+        <p>{{  position.location }}</p>
+      </div>
+    {% endfor %}
+  </div>
+{% endblock %}

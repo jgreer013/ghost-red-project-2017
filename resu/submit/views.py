@@ -1,22 +1,22 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-from uuid import uuid
-import os
-
-
+from uuid import UUID
+from tfidfProg import applicant,company 
 
 # Create your views here.
 
 def index(request):
-  UUID = str(uuid4())
+  ID = str(UUID.uuid4())
   if request.POST.get("req","") == "upload":
     resume = request.FILES['resume']
-
+    github = request.POST['github']
+    [company_matches, position_matches] = applicant(resume,github)
   if request.POST.get("req","") == "people":
     files = request.FILES['file']
+    employees = company(files,culture,job)
   return render(
     request,
-    'submit/index.html',
+    'submit.html',
     context={}
   )
 

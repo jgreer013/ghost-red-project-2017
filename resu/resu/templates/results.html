@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% block content %}
+  <div class="gallery">
+    {% for company in company_matches %}
+        <div class="company">
+          <h3>{{ company.name }}</h3>
+        </div>
+    {% endfor %}
+  </div>
+  <button onClick="download()">Download List</button>
+  <div>
+    Company Culture Fit: <progressbar max="100" id="culture" />
+    Position Fit: <progressbar max="100" id="position" />
+  </div>
+{% endblock %}
